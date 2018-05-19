@@ -1,13 +1,13 @@
 LOCAL_BeginTuTorialQuest_list = {
 					{
-						name = [[檬焊磊譬配府倔]],
+						name = [[新手教学]],
 						imagefile = [[ep_test_sample.bmp]],
 						list = {
 									{
-										name  =	[[扼弊唱肺农 矫累狼 辨]],
+										name  =	[[仙境传说的起步]],
 										list = {
 												{
-													name =[[技惑阑 困茄 霉吧澜]],
+													name =[[世界的第一步]],
 													scrfilename = [[BeginTutorialQuest]],
 													questID = 7472,
 												},

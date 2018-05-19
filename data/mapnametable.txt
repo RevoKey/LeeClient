@@ -66,11 +66,11 @@ lasa_in01.rsw#扼磊衬 郴何#
 lasa_dun_q.rsw#侩狼 嫡瘤#
 
 //牢飘肺 俺祈
-iz_int.rsw#谅檬等 咯按急#
-iz_int01.rsw#谅檬等 咯按急#
-iz_int02.rsw#谅檬等 咯按急#
-iz_int03.rsw#谅檬等 咯按急#
-iz_int04.rsw#谅檬等 咯按急#
+iz_int.rsw#介绍地图#
+iz_int01.rsw#介绍地图#
+iz_int02.rsw#介绍地图#
+iz_int03.rsw#介绍地图#
+iz_int04.rsw#介绍地图#
 
 int_land.rsw#寇谍级#
 int_land01.rsw#寇谍级#
@@ -176,10 +176,10 @@ dali.rsw#瞒盔狼 闭凯#
 evt_bomb.rsw#捞亥飘 固泵#
 
 //绊己皋葛府倔带傈
-gl_cas02_.rsw#2摸 雀尔#
-gl_chyard_.rsw#荐档盔 功瘤#
-2@gl_k.rsw#烤扁荤窜2摸#
-1@gl_k.rsw#烤扁荤窜1摸#
+gl_cas02_.rsw#古城地上2F(梦魇)#
+gl_chyard_.rsw#古城地下公墓(梦魇)#
+2@gl_k.rsw#旧的古城骑士团副本2F#
+1@gl_k.rsw#旧的古城骑士团副本1F#
 
 //历饭骇 傍己傈
 te_prt_gld.rsw#臂肺府酒#
@@ -198,825 +198,825 @@ te_aldecas05.rsw#歹喉幅#
 teg_dun02.rsw#辨靛 瘤窍 带傈#
 
 //捞令风靛 譬配府倔甘
-prt_fild08d.rsw#橇沸抛扼 鞘靛#
-prt_fild08c.rsw#橇沸抛扼 鞘靛#
-prt_fild08b.rsw#橇沸抛扼 鞘靛#
-prt_fild08a.rsw#橇沸抛扼 鞘靛#
+prt_fild08d.rsw#普隆德拉区域D#
+prt_fild08c.rsw#普隆德拉区域C#
+prt_fild08b.rsw#普隆德拉区域B#
+prt_fild08a.rsw#普隆德拉区域A#
 
-iz_ac01_d.rsw#酒墨单固1摸#
-iz_ac02_d.rsw#酒墨单固2摸#
-iz_ac01_c.rsw#酒墨单固1摸#
-iz_ac02_c.rsw#酒墨单固2摸#
-iz_ac01_b.rsw#酒墨单固1摸#
-iz_ac02_b.rsw#酒墨单固2摸#
-iz_ac01_a.rsw#酒墨单固1摸#
-iz_ac02_a.rsw#酒墨单固2摸#
+iz_ac01_d.rsw#学院D-1楼#
+iz_ac02_d.rsw#学院D-2楼#
+iz_ac01_c.rsw#学院C-1楼#
+iz_ac02_c.rsw#学院C-2楼#
+iz_ac01_b.rsw#学院B-1楼#
+iz_ac02_b.rsw#学院B-2楼#
+iz_ac01_a.rsw#学院A-1楼#
+iz_ac02_a.rsw#学院A-2楼#
 
-izlude_d.rsw#困己档矫 捞令风靛#
-izlude_c.rsw#困己档矫 捞令风靛#
-izlude_b.rsw#困己档矫 捞令风靛#
-izlude_a.rsw#困己档矫 捞令风靛#
+izlude_d.rsw#卫星都市 依斯鲁得岛D#
+izlude_c.rsw#卫星都市 依斯鲁得岛C#
+izlude_b.rsw#卫星都市 依斯鲁得岛B#
+izlude_a.rsw#卫星都市 依斯鲁得岛A#
 
 //捞令风靛府春倔
-iz_int.rsw#牢飘肺#
-iz_int01.rsw#牢飘肺#
-iz_int02.rsw#牢飘肺#
-iz_int03.rsw#牢飘肺#
-iz_int04.rsw#牢飘肺#
-iz_ac01.rsw#酒墨单固1摸#
-iz_ac02.rsw#酒墨单固2摸#
-iz_ng01.rsw#囱磊譬配府倔甘#
-treasure_n1.rsw#捞令风靛 抄颇急 1摸#
-treasure_n2.rsw#捞令风靛 抄颇急 2摸#
+iz_int.rsw#介绍地图#
+iz_int01.rsw#介绍地图#
+iz_int02.rsw#介绍地图#
+iz_int03.rsw#介绍地图#
+iz_int04.rsw#介绍地图#
+iz_ac01.rsw#学院1F#
+iz_ac02.rsw#学院2F#
+iz_ng01.rsw#忍者新手教学地图#
+treasure_n1.rsw#依斯鲁得岛遇难船1F#
+treasure_n2.rsw#依斯鲁得岛遇难船2F#
 
-moc_prydn1.rsw#葛肺农 乔扼固靛 瘤窍 1摸 - 唱捞飘#
-moc_prydn2.rsw#葛肺农 乔扼固靛 瘤窍 2摸 - 唱捞飘#
+moc_prydn1.rsw#金字塔迷宫梦魇密穴1F#
+moc_prydn2.rsw#金字塔迷宫梦魇密穴2F#
 
-eclage.rsw#扼乔匙 荐档 俊努扼陵#
-ecl_fild01.rsw#采捞 乔绢抄 措瘤#
-ecl_in01.rsw#俊努扼陵 郴何#
-ecl_in02.rsw#俊努扼陵 郴何#
-ecl_in03.rsw#俊努扼陵 郴何#
-ecl_in04.rsw#俊努扼陵 郴何#
-1@ecl.rsw#俊努扼陵 郴何#
-ecl_tdun01.rsw#厚橇肺胶飘 啪 1摸#
-ecl_tdun02.rsw#厚橇肺胶飘 啪 2摸#
-ecl_tdun03.rsw#厚橇肺胶飘 啪 3摸#
-ecl_tdun04.rsw#厚橇肺胶飘 啪 4摸#
-ecl_hub01.rsw#俊努扼陵 笛饭辨#
-que_avan01.rsw#俊捞馆飘 楷备角#
+eclage.rsw#艾可拉珠#
+ecl_fild01.rsw#艾可拉珠开枝散叶的大地#
+ecl_in01.rsw#艾可拉珠室内#
+ecl_in02.rsw#艾可拉珠室内#
+ecl_in03.rsw#艾可拉珠室内#
+ecl_in04.rsw#艾可拉珠室内#
+1@ecl.rsw#艾可拉珠副本#
+ecl_tdun01.rsw#彩虹桥高塔1F#
+ecl_tdun02.rsw#彩虹桥高塔2F#
+ecl_tdun03.rsw#彩虹桥高塔3F#
+ecl_tdun04.rsw#彩虹桥高塔4F#
+ecl_hub01.rsw#艾可拉珠小径#
+que_avan01.rsw#阿凡特研究室#
 
 
-malaya.rsw#器飘 富扼具#
-ma_fild01.rsw#官福夸 付洒啊客#
-ma_fild02.rsw#器饭胶飘#
+malaya.rsw#马来亚#
+ma_fild01.rsw#巴勒攸 马西瓦哥#
+ma_fild02.rsw#普勒斯特#
 ma_scene01.rsw#滚内呈况 龋荐#
-ma_in01.rsw#富扼具 郴何#
-ma_dun01.rsw#骸旷镑 捍盔 1摸#
-1@ma_h.rsw#骸旷镑 捍盔 2摸#
-1@ma_c.rsw#何况咯 悼奔#
-1@ma_b.rsw#滚内呈况 篮脚贸#
-ma_zif01.rsw#瘤橇聪 郴何#
-ma_zif02.rsw#瘤橇聪 郴何#
-ma_zif03.rsw#瘤橇聪 郴何#
-ma_zif04.rsw#瘤橇聪 郴何#
-ma_zif05.rsw#瘤橇聪 郴何#
-ma_zif06.rsw#瘤橇聪 郴何#
-ma_zif07.rsw#瘤橇聪 郴何#
-ma_zif08.rsw#瘤橇聪 郴何#
-ma_zif09.rsw#瘤橇聪 郴何#
+ma_in01.rsw#马来亚室内#
+ma_dun01.rsw#噩梦医院1F#
+1@ma_h.rsw#噩梦医院2F#
+1@ma_c.rsw#宝箱巨鳄洞穴#
+1@ma_b.rsw#巴库暴龙藏身处#
+ma_zif01.rsw#吉普尼车内部01#
+ma_zif02.rsw#吉普尼车内部02#
+ma_zif03.rsw#吉普尼车内部03#
+ma_zif04.rsw#吉普尼车内部04#
+ma_zif05.rsw#吉普尼车内部05#
+ma_zif06.rsw#吉普尼车内部06#
+ma_zif07.rsw#吉普尼车内部07#
+ma_zif08.rsw#吉普尼车内部08#
+ma_zif09.rsw#吉普尼车内部09#
 job_ko.rsw#见败柳 厘家#
 
-gld_dun01_2.rsw#辨靛 瘤窍 带傈 2摸#
-gld_dun02_2.rsw#辨靛 瘤窍 带傈 2摸#
-gld_dun03_2.rsw#辨靛 瘤窍 带傈 2摸#
-gld_dun04_2.rsw#辨靛 瘤窍 带傈 2摸#
-gld2_ald.rsw#缴楷狼 雀尔 : 康旷狼 传拱#
-gld2_gef.rsw#缴楷狼 雀尔 : 噶磊狼 攫傣#
-gld2_pay.rsw#缴楷狼 雀尔 : 怕绊狼 官恩#
-gld2_prt.rsw#缴楷狼 雀尔 : 傈荤狼 辨#
+gld_dun01_2.rsw#地下公会密穴(斐扬)2F#
+gld_dun02_2.rsw#地下公会密穴(艾尔帕兰)2F#
+gld_dun03_2.rsw#地下公会密穴(普隆德拉)2F#
+gld_dun04_2.rsw#地下公会密穴(吉芬)2F#
+gld2_ald.rsw#深渊回廊(英雄之泪)#
+gld2_gef.rsw#深渊回廊(亡者之丘)#
+gld2_pay.rsw#深渊回廊(太古之风)#
+gld2_prt.rsw#深渊回廊(战士之路)#
 
-lhz_dun04.rsw#积眉角氰 楷备家 瘤窍 4摸#
-que_lhz.rsw#积眉角氰 楷备家 瘤窍 4摸#
-1@lhz.rsw#焊福技宏狼 楷备角#
-iz_dun05.rsw#捞令风靛 秦历悼奔 带傈 6摸#
-malangdo.rsw#富尔档#
-mal_in01.rsw#富尔档 郴何#
-mal_in02.rsw#硅 郴何#
-mal_dun01.rsw#喊蝴魂龋瘤措#
-1@cash.rsw#巩绢 悼奔#
-1@pump.rsw#硅荐肺#
-2@pump.rsw#硅荐肺#
-dic_dun03.rsw#胶墨扼官 圈#
-que_house_s.rsw#捞惑茄 笼#
-dewata.rsw#单客鸥#
-dew_in01.rsw#磊萍 何练 付阑 郴何#
-dew_fild01.rsw#单客鸥 鞘靛_磊萍 何练 付阑#
-dew_dun01.rsw#农扼墨配 拳魂级#
-dew_dun02.rsw#捞胶鸥唱 悼奔#
-bif_fild01.rsw#厚橇肺胶飘 巢何#
-bif_fild02.rsw#厚橇肺胶飘 合何#
-1@mist.rsw#救俺 剑狼 固泵#
-mora.rsw#扼敲饭练 付阑 葛扼#
-dicastes01.rsw#荤颇 荐档 郡 叼墨胶抛胶#
-dicastes02.rsw#宏冯骇靛 夸福洒 剑#
-dic_in01.rsw#叼墨胶抛胶 郴何#
-dic_fild01.rsw#墨固崔 魂扁骄#
-dic_fild02.rsw#墨固崔 魂扁骄#
-dic_dun01.rsw#墨固崔 磐澄#
-dic_dun02.rsw#胶墨扼官 圈#
-job3_gen01.rsw#力匙腐 楷备家#
-s_atelier.rsw#弊覆磊 傍规#
-brasilis.rsw#宏扼龙府胶#
-bra_in01.rsw#宏扼龙府胶 郴何#
-bra_fild01.rsw#宏扼龙府胶 鞘靛#
-bra_dun01.rsw#宏扼龙府胶 气器 救狼 悼奔 涝备#
-bra_dun02.rsw#宏扼龙府胶 气器 救狼 悼奔 郴何#
-moc_para01.rsw#葛肺农 倡盔窜 郴何#
-job3_arch01.rsw#酒农厚俭 傈流 措扁角#
-job3_arch02.rsw#戎爸 坷凋 脚傈#
-job3_arch03.rsw#酒农厚俭 傈流 措扁角#
-job3_guil01.rsw#厚剐 林痢#
-job3_guil02.rsw#倾抚茄 芒绊 郴何#
-job3_guil03.rsw#寇谍 历琶#
-job3_rang01.rsw#饭牢历 傈流 措扁角#
-job3_rang02.rsw#饭牢历 傈流 矫氰厘#
-job3_rune01.rsw#烽唱捞飘 扁荤窜 郴何#
-job3_rune02.rsw#烽唱捞飘 傈流 矫氰厘#
-job3_rune03.rsw#烽唱捞飘 傈流 矫氰厘#
-job3_war01.rsw#况废 傈流 矫氰厘#
-job3_war02.rsw#况废 傈流 矫氰厘#
-jupe_core2.rsw#蜡其肺胶 吝缴何#
-1@nyd.rsw#聪靛龋弊狼 嫡瘤#
-2@nyd.rsw#聪靛龋弊狼 嫡瘤#
-nyd_dun01.rsw#胶敲尔叼靛 抄气磊狼 惑贸 1摸#
-nyd_dun02.rsw#胶敲尔叼靛 抄气磊狼 惑贸 2摸#
-manuk.rsw#堡魂付阑 付穿农#
-man_fild02.rsw#付穿农 鞘靛#
-man_in01.rsw#付穿农 郴何#
-splendide.rsw#扼乔匙 傈柳扁瘤 胶敲尔叼靛#
-spl_fild01.rsw#胶敲尔叼靛 鞘靛#
-spl_in01.rsw#胶敲尔叼靛 具傈荤飞何 郴何#
-spl_in02.rsw#胶敲尔叼靛 郴何#
-bat_c01.rsw#农府芭 迄 固靛啊福靛#
-bat_c02.rsw#农府芭 迄 固靛啊福靛#
-bat_c03.rsw#农府芭 迄 固靛啊福靛#
-mid_camp.rsw#固靛啊福靛 楷钦 林敌瘤#
-mid_campin.rsw#固靛啊福靛 楷钦 林敌瘤 郴何#
-man_fild01.rsw#付穿农 鞘靛#
-man_fild03.rsw#付穿农 鞘靛#
-spl_fild02.rsw#胶敲尔叼靛 鞘靛#
-spl_fild03.rsw#胶敲尔叼靛 鞘靛#
-moc_fild22b.rsw#家弊扼飘 荤阜 瞒盔狼 闭凯#
-que_dan01.rsw#戎爸 鞘靛#
-que_dan02.rsw#蜡畴狼 滚妨柳 笼 郴何#
-schg_que01.rsw#葛绢胶沛狼 钱圭#
-schg_dun01.rsw#辨靛 瘤窍 带傈#
-arug_que01.rsw#葛绢胶沛狼 钱圭#
-arug_dun01.rsw#辨靛 瘤窍 带傈#
-1@orcs.rsw#坷农 瘤窍 悼奔#
-2@orcs.rsw#坷农 瘤窍 悼奔#
-1@cata.rsw#墨鸥霓#
-2@cata.rsw#豪牢等 脚傈#
-e_tower.rsw#固胶萍 酒老罚靛#
-1@tower.rsw#浚甸饭胶 鸥况#
-2@tower.rsw#浚甸饭胶 鸥况#
-3@tower.rsw#浚甸饭胶 鸥况#
-4@tower.rsw#浚甸饭胶 鸥况#
-5@tower.rsw#浚甸饭胶 鸥况#
-6@tower.rsw#浚甸饭胶 鸥况(舅 荐 绝绰 镑)#
-bat_room.rsw#傈厘 措扁角#
-bat_a01.rsw#萍俊扼 蛆邦#
-bat_a02.rsw#萍俊扼 蛆邦#
-bat_b01.rsw#敲扼厚快胶#
-bat_b02.rsw#敲扼厚快胶#
-que_qsch01.rsw#倾惑狼 坷妮聪福#
-que_qsch02.rsw#倾惑狼 坷妮聪福#
-que_qsch03.rsw#倾惑狼 坷妮聪福#
-que_qsch04.rsw#倾惑狼 坷妮聪福#
-que_qsch05.rsw#倾惑狼 坷妮聪福#
-que_qaru01.rsw#倾惑狼 坷妮聪福#
-que_qaru02.rsw#倾惑狼 坷妮聪福#
-que_qaru03.rsw#倾惑狼 坷妮聪福#
-que_qaru04.rsw#倾惑狼 坷妮聪福#
-que_qaru05.rsw#倾惑狼 坷妮聪福#
-arug_cas01.rsw#惯橇饭捞具 辨靛#
-arug_cas02.rsw#惯橇饭捞具 辨靛#
-arug_cas03.rsw#惯橇饭捞具 辨靛#
-arug_cas04.rsw#惯橇饭捞具 辨靛#
-arug_cas05.rsw#惯橇饭捞具 辨靛#
-aru_gld.rsw#惯橇饭捞具#
-moscovia.rsw#葛胶内厚酒#
-mosk_in.rsw#葛胶内厚酒 郴何#
-mosk_ship.rsw#硅#
-mosk_fild01.rsw#绊贰 级#
-mosk_fild02.rsw#葛胶内厚酒 鞘靛#
-mosk_dun01.rsw#葛胶内厚酒 剑#
-mosk_dun02.rsw#葛胶内厚酒 表篮 剑#
-mosk_dun03.rsw#葛胶内厚酒 表绊 表篮 剑#
-schg_cas01.rsw#聪促荷 辨靛#
-schg_cas02.rsw#聪促荷 辨靛#
-schg_cas03.rsw#聪促荷 辨靛#
-schg_cas04.rsw#聪促荷 辨靛#
-schg_cas05.rsw#聪促荷 辨靛#
-sch_gld.rsw#聪促荷#
-cave.rsw#悼奔付阑#
-moc_fild20.rsw#家弊扼飘 荤阜 瞒盔狼 闭凯#
-moc_fild21.rsw#家弊扼飘 荤阜 瞒盔狼 闭凯#
-moc_fild22.rsw#家弊扼飘 荤阜 瞒盔狼 闭凯#
-bossnia_01.rsw#焊胶聪酒#
-bossnia_02.rsw#焊胶聪酒#
-bossnia_03.rsw#焊胶聪酒#
-bossnia_04.rsw#焊胶聪酒#
-itemmall.rsw#酒捞袍 隔#
-poring_w01.rsw#器傅措傈 措扁角#
-poring_w02.rsw#器傅措傈厘#
-nameless_i.rsw#捞抚绝绰 级#
-nameless_n.rsw#捞抚绝绰 级#
-nameless_in.rsw#捞抚绝绰 级 郴何#
-abbey01.rsw#捞抚绝绰 级 荐档盔 1摸#
-abbey02.rsw#捞抚绝绰 级 荐档盔 瘤窍 1摸#
-abbey03.rsw#捞抚绝绰 级 荐档盔 瘤窍 2摸#
+lhz_dun04.rsw#生体试验研究所4F#
+que_lhz.rsw#生体试验研究所(任务)#
+1@lhz.rsw#保罗协夫研究室#
+iz_dun05.rsw#海底洞窟6F#
+malangdo.rsw#绵绵岛#
+mal_in01.rsw#绵绵岛室内#
+mal_in02.rsw#绵绵岛船内部#
+mal_dun01.rsw#星光珊瑚地带#
+1@cash.rsw#绵绵岛章鱼洞穴#
+1@pump.rsw#绵绵岛排水沟1F#
+2@pump.rsw#绵绵岛排水沟2F#
+dic_dun03.rsw#甲虫密穴3F(斯卡勒伯熔岩洞穴)#
+que_house_s.rsw#诡异屋子#
+dewata.rsw#德瓦他#
+dew_in01.rsw#德瓦他室内#
+dew_fild01.rsw#德瓦他原野(贾提族部落)#
+dew_dun01.rsw#德瓦他密穴1F(喀拉喀托火山岛)#
+dew_dun02.rsw#德瓦他密穴2F(伊斯坦纳洞穴)#
+bif_fild01.rsw#彩虹桥南部#
+bif_fild02.rsw#彩虹桥北部#
+1@mist.rsw#雾林迷宫#
+mora.rsw#草精族穆拉村#
+dicastes01.rsw#邪派首都 艾尔迪卡斯特#
+dicastes02.rsw#布鲁姆德姚乐希森林#
+dic_in01.rsw#艾尔迪卡斯特室内#
+dic_fild01.rsw#卡米达山麓01#
+dic_fild02.rsw#卡米达山麓02#
+dic_dun01.rsw#甲虫密穴1F(卡米达隧道)#
+dic_dun02.rsw#甲虫密穴2F(斯卡勒伯熔岩洞穴)#
+job3_gen01.rsw#基因学者研究所#
+s_atelier.rsw#影子工坊#
+brasilis.rsw#巴西#
+bra_in01.rsw#巴西内部#
+bra_fild01.rsw#巴西原野#
+bra_dun01.rsw#瀑布内的洞窟1F#
+bra_dun02.rsw#瀑布内的洞窟2F#
+moc_para01.rsw#伊甸园#
+job3_arch01.rsw#大主教转职考场01#
+job3_arch02.rsw#大主教转职考场(奥丁神殿)#
+job3_arch03.rsw#大主教转职考场03#
+job3_guil01.rsw#秘密酒店#
+job3_guil02.rsw#破旧的仓库#
+job3_guil03.rsw#偏僻的住宅#
+job3_rang01.rsw#游侠转职等候室#
+job3_rang02.rsw#游侠转职考场#
+job3_rune01.rsw#卢恩骑士转职考场01#
+job3_rune02.rsw#卢恩骑士转职考场02#
+job3_rune03.rsw#卢恩骑士转职考场03#
+job3_war01.rsw#咒术士转职考场01#
+job3_war02.rsw#咒术士转职考场02#
+jupe_core2.rsw#优配擂斯中央#
+1@nyd.rsw#尼德霍格的巢穴1F#
+2@nyd.rsw#尼德霍格的巢穴2F#
+nyd_dun01.rsw#粗暴者的伤口1F#
+nyd_dun02.rsw#粗暴者的伤口2F#
+manuk.rsw#魔怒克#
+man_fild02.rsw#魔怒克原野02#
+man_in01.rsw#魔怒克室内#
+splendide.rsw#史波浪壮丽#
+spl_fild01.rsw#史波浪壮丽原野01#
+spl_in01.rsw#史波浪壮丽室内#
+spl_in02.rsw#史波浪壮丽室内#
+bat_c01.rsw#KVM战场(80等以上)#
+bat_c02.rsw#KVM战场(60～80等)#
+bat_c03.rsw#KVM战场(60等以下)#
+mid_camp.rsw#米德加尔特联合营地#
+mid_campin.rsw#米德加尔特联合营地室内#
+man_fild01.rsw#魔怒克原野01#
+man_fild03.rsw#魔怒克原野03#
+spl_fild02.rsw#史波浪壮丽原野02#
+spl_fild03.rsw#史波浪壮丽原野03#
+moc_fild22b.rsw#时空的裂缝(往异世界)#
+que_dan01.rsw#毁葛原野#
+que_dan02.rsw#朱诺的废弃建筑室内#
+schg_que01.rsw#莫尔斯敦草地(朱诺)#
+schg_dun01.rsw#地下公会密穴(朱诺)#
+arug_que01.rsw#莫尔斯敦草地(拉赫)#
+arug_dun01.rsw#地下公会密穴(拉赫)#
+1@orcs.rsw#兽人地下密穴1F#
+2@orcs.rsw#兽人地下密穴2F#
+1@cata.rsw#封印的神殿1F#
+2@cata.rsw#封印的神殿2F#
+e_tower.rsw#神秘岛(无限塔前)#
+1@tower.rsw#无限塔1F～25F#
+2@tower.rsw#无限塔26F～50F#
+3@tower.rsw#无限塔51F～75F#
+4@tower.rsw#无限塔76F～99F#
+5@tower.rsw#无限塔100F#
+6@tower.rsw#无限塔101F～102F#
+bat_room.rsw#战场等候室#
+bat_a01.rsw#提耶拉峡谷01#
+bat_a02.rsw#提耶拉峡谷02#
+bat_b01.rsw#瀑拉毕乌斯峡谷01#
+bat_b02.rsw#瀑拉毕乌斯峡谷02#
+que_qsch01.rsw#虚像的奥克尼勒01(朱诺)#
+que_qsch02.rsw#虚像的奥克尼勒02(朱诺)#
+que_qsch03.rsw#虚像的奥克尼勒03(朱诺)#
+que_qsch04.rsw#虚像的奥克尼勒04(朱诺)#
+que_qsch05.rsw#虚像的奥克尼勒05(朱诺)#
+que_qaru01.rsw#虚像的奥克尼勒01(拉赫)#
+que_qaru02.rsw#虚像的奥克尼勒02(拉赫)#
+que_qaru03.rsw#虚像的奥克尼勒03(拉赫)#
+que_qaru04.rsw#虚像的奥克尼勒04(拉赫)#
+que_qaru05.rsw#虚像的奥克尼勒05(拉赫)#
+arug_cas01.rsw#马勒杜(拉赫左上)#
+arug_cas02.rsw#希乐(拉赫左下)#
+arug_cas03.rsw#霍伦(拉赫左中)#
+arug_cas04.rsw#吉本(拉赫右上)#
+arug_cas05.rsw#巴拿迪斯(拉赫右下)#
+aru_gld.rsw#拉赫发菲依雅#
+moscovia.rsw#莫斯科比亚#
+mosk_in.rsw#莫斯科比亚室内#
+mosk_ship.rsw#船舶#
+mosk_fild01.rsw#莫斯科比亚原野#
+mosk_fild02.rsw#莫斯科比亚原野#
+mosk_dun01.rsw#森林洞穴1F#
+mosk_dun02.rsw#森林洞穴2F#
+mosk_dun03.rsw#森林洞穴3F#
+schg_cas01.rsw#喜民(朱诺右下)#
+schg_cas02.rsw#安得郎克(朱诺右上)#
+schg_cas03.rsw#毕得布莱因(朱诺左中)#
+schg_cas04.rsw#何料德(朱诺左下)#
+schg_cas05.rsw#思凯提乐尼(朱诺左上)#
+sch_gld.rsw#朱诺尼它堆#
+cave.rsw#洞穴村落#
+moc_fild20.rsw#梦罗克东门外#
+moc_fild21.rsw#时空的裂缝(魔王梦罗克)#
+moc_fild22.rsw#时空的裂缝(负伤梦罗克)#
+bossnia_01.rsw#波士尼亚01#
+bossnia_02.rsw#波士尼亚02#
+bossnia_03.rsw#波士尼亚03#
+bossnia_04.rsw#波士尼亚04#
+itemmall.rsw#商城地图#
+poring_w01.rsw#波利对决场等候室#
+poring_w02.rsw#波利对决场#
+nameless_i.rsw#无名岛(白天)#
+nameless_n.rsw#无名岛(夜晚)#
+nameless_in.rsw#无名岛室内#
+abbey01.rsw#无名岛修道院1F#
+abbey02.rsw#无名岛修道院2F#
+abbey03.rsw#无名岛修道院3F#
 que_temsky.rsw#背炔 笼公角(窍疵沥盔)#
-z_agit.rsw#Z窜狼 酒瘤飘#
-veins.rsw#蛆邦付阑 海牢胶#
-ve_in.rsw#海牢胶 郴何#
-ve_in02.rsw#海牢胶 郴何#
-ve_fild01.rsw#海牢胶 鞘靛#
-ve_fild02.rsw#海牢胶 鞘靛#
-ve_fild03.rsw#海牢胶 鞘靛#
-ve_fild04.rsw#海牢胶 鞘靛#
+z_agit.rsw#Z集团的秘密基地#
+veins.rsw#峡谷村落 菲音斯#
+ve_in.rsw#菲音斯室内#
+ve_in02.rsw#菲音斯室内#
+ve_fild01.rsw#菲音斯原野01#
+ve_fild02.rsw#菲音斯原野02#
+ve_fild03.rsw#菲音斯原野03(火山外)#
+ve_fild04.rsw#菲音斯原野04#
 //ve_fild05.rsw#海牢胶 鞘靛#	2008斥 府春倔
-ve_fild06.rsw#海牢胶 鞘靛#
-ve_fild07.rsw#海牢胶 鞘靛#
-thor_camp.rsw#海牢胶 配福 拳魂 捍曼扁瘤#
-que_thor.rsw#海牢胶 配福 拳魂 带傈#
-thor_v01.rsw#海牢胶 配福 拳魂 带傈 1摸#
-thor_v02.rsw#海牢胶 配福 拳魂 带傈 2摸#
-thor_v03.rsw#海牢胶 配福 拳魂 带傈 3摸#
-rachel.rsw#酒风唱歧明 背惫 荐档 扼秋#
-ra_in01.rsw#扼秋 郴何#
-ra_temple.rsw#橇饭捞具 措脚傈(技胶冯聪福)#
-ra_temin.rsw#脚傈 郴何#
-que_rachel.rsw#脚傈 郴何#
-ra_temsky.rsw#背炔 笼公角(窍疵 沥盔)#
-ra_fild01.rsw#扼秋 酒快狄扼 檬盔#
+ve_fild06.rsw#菲音斯原野06#
+ve_fild07.rsw#菲音斯原野07(往无名岛)#
+thor_camp.rsw#索尔火山兵站基地#
+que_thor.rsw#索尔火山任务洞穴#
+thor_v01.rsw#索尔火山洞穴1F#
+thor_v02.rsw#索尔火山洞穴2F#
+thor_v03.rsw#索尔火山洞穴3F#
+rachel.rsw#阿卢纳贝兹 教国首都 拉赫#
+ra_in01.rsw#拉赫室内#
+ra_temple.rsw#菲依雅大神殿(瑟斯隆尼勒)#
+ra_temin.rsw#神殿内部#
+que_rachel.rsw#昏暗的神殿内部#
+ra_temsky.rsw#教皇执勤室(空中庭园)#
+ra_fild01.rsw#阿巫敦拉草原01(冰洞外)#
 //ra_fild02.rsw#扼秋 坷令 蛆邦#	2008斥 府春倔
-ra_fild03.rsw#扼秋 捞促 乞盔#
-ra_fild04.rsw#扼秋 酒快狄扼 檬盔#
-ra_fild05.rsw#扼秋 酒快狄扼 檬盔#
-ra_fild06.rsw#器福捧 风唱#
+ra_fild03.rsw#伊达平原03#
+ra_fild04.rsw#阿巫敦拉草原04#
+ra_fild05.rsw#阿巫敦拉草原05#
+ra_fild06.rsw#浦勒吐卢纳06#
 //ra_fild07.rsw#扼秋 坷令 蛆邦#	2008斥 府春倔
-ra_fild08.rsw#扼秋 捞促 乞盔#
+ra_fild08.rsw#伊达平原08#
 //ra_fild09.rsw#扼秋 酒快狄扼 檬盔#	2008斥 府春倔
 //ra_fild10.rsw#扼秋 坷令 蛆邦#	2008斥 府春倔
 //ra_fild11.rsw#扼秋 捞促 乞盔#	2008斥 府春倔
-ra_fild12.rsw#扼秋 捞促 乞盔#
+ra_fild12.rsw#伊达平原12(拉赫东门外)#
 //ra_fild13.rsw#扼秋 传拱狼 秦救#	2008斥 府春倔
-ra_san01.rsw#扼秋 脚傈 己开 1摸 合率 备开#
-ra_san02.rsw#扼秋 脚傈 己开 1摸 辑率 备开#
-ra_san03.rsw#扼秋 脚傈 己开 1摸 悼率 备开#
-ra_san04.rsw#扼秋 脚傈 己开 1摸 巢率 备开#
-ra_san05.rsw#扼秋 脚傈 己开 2摸 吝居 备开#
-ice_dun01.rsw#扼秋 倔澜 悼奔 1摸#
-ice_dun02.rsw#扼秋 倔澜 悼奔 2摸#
-ice_dun03.rsw#扼秋 倔澜 悼奔 3摸#
-ice_dun04.rsw#扼秋 倔澜 悼奔 豪牢狼 傍埃#
-hugel.rsw#傈盔档矫 戎爸#
-hu_in01.rsw#戎爸 郴何#
-que_bingo.rsw#葫绊 版扁厘#
-que_hugel.rsw#坷凋 脚傈 瘤窍#
-p_track01.rsw#阁胶磐 饭捞胶 版扁厘#
-p_track02.rsw#阁胶磐 饭捞胶 版扁厘#
-odin_tem01.rsw#戎爸 坷凋 脚傈 辑率 瘤开#
-odin_tem02.rsw#戎爸 坷凋 脚傈 巢率 瘤开#
-odin_tem03.rsw#戎爸 坷凋 脚傈 合率 瘤开#
-hu_fild02.rsw#戎爸 鞘靛#
+ra_san01.rsw#神殿圣域1F#
+ra_san02.rsw#神殿圣域2F#
+ra_san03.rsw#神殿圣域3F#
+ra_san04.rsw#神殿圣域4F#
+ra_san05.rsw#神殿圣域5F#
+ice_dun01.rsw#冰洞穴1F#
+ice_dun02.rsw#冰洞穴2F#
+ice_dun03.rsw#冰洞穴3F#
+ice_dun04.rsw#冰洞穴4F#
+hugel.rsw#田园都市 毁葛#
+hu_in01.rsw#毁葛室内#
+que_bingo.rsw#宾果游戏竞赛场#
+que_hugel.rsw#奥丁神殿地下#
+p_track01.rsw#魔物赛跑竞赛场01#
+p_track02.rsw#魔物赛跑竞赛场02#
+odin_tem01.rsw#奥丁神殿1F#
+odin_tem02.rsw#奥丁神殿2F#
+odin_tem03.rsw#奥丁神殿3F#
+hu_fild02.rsw#毁葛原野02#
 //hu_fild03.rsw#戎爸 鞘靛#	2008斥 府春倔
-hu_fild06.rsw#戎爸 鞘靛#
-ein_fild01.rsw#酒牢宏肺农 鞘靛#
+hu_fild06.rsw#毁葛原野06(毁葛外)#
+ein_fild01.rsw#艾音布罗克原野01#
 //ein_fild02.rsw#酒牢宏肺农 鞘靛#	2008斥 府春倔
-ein_fild05.rsw#酒牢宏肺农 鞘靛#
+ein_fild05.rsw#艾音布罗克原野05#
 //yuno_fild10.rsw#蜡畴 鞘靛#	2008斥 府春倔
-kh_kiehl02.rsw#虐郡狼 付瘤阜 规#
-kh_kiehl01.rsw#虐郡狼 规#
-kh_dun02.rsw#扁拌牢屈傍厘 2摸#
-kh_dun01.rsw#扁拌牢屈傍厘 1摸#
-kh_mansion.rsw#懦 窍捞福 历琶#
-kh_rossi.rsw#肺矫固俊福啊 历琶#
-kh_school.rsw#懦 窍捞福 切盔#
-kh_vila.rsw#懦 窍捞福 喊厘#
-auction_01.rsw#版概厘#
-auction_02.rsw#版概厘#
-que_job01.rsw#厚剐林痢#
-abyss_01.rsw#戎爸 绢厚胶 龋荐 瘤窍 悼奔 1摸#
-abyss_02.rsw#戎爸 绢厚胶 龋荐 瘤窍 悼奔 2摸#
-abyss_03.rsw#戎爸 绢厚胶 龋荐 瘤窍 悼奔 3摸#
-tha_t01.rsw#鸥唱配胶 鸥况 窍摸何 冠拱包 涝备#
-tha_t02.rsw#鸥唱配胶 鸥况 窍摸何 冠拱包#
-tha_t03.rsw#鸥唱配胶 鸥况 窍摸何 滚妨柳 傍埃#
-tha_t04.rsw#鸥唱配胶 鸥况 窍摸何 滚妨柳 傍埃#
-tha_t05.rsw#鸥唱配胶 鸥况 惑摸何#
-tha_t06.rsw#鸥唱配胶 鸥况 惑摸何#
-tha_t07.rsw#鸥唱配胶 鸥况 惑摸何 玫荤狼 规#
-tha_t08.rsw#鸥唱配胶 鸥况 惑摸何 玫荤狼 规#
-tha_t09.rsw#鸥唱配胶 鸥况 惑摸何 绊锄狼 规#
-tha_t10.rsw#鸥唱配胶 鸥况 惑摸何 浇悄狼 规#
-tha_t11.rsw#鸥唱配胶 鸥况 惑摸何 例噶狼 规#
-tha_t12.rsw#鸥唱配胶 鸥况 惑摸何 刘坷狼 规#
-thana_step.rsw#鸥唱配胶 鸥况 惑摸何 拌窜#
-thana_boss.rsw#鸥唱配胶 鸥况(舅 荐 绝绰 镑)#
+kh_kiehl02.rsw#齐尔的最后房间#
+kh_kiehl01.rsw#齐尔的房间#
+kh_dun02.rsw#机械人型工厂2F#
+kh_dun01.rsw#机械人型工厂1F#
+kh_mansion.rsw#启海伊洛官邸#
+kh_rossi.rsw#罗希米爱乐家官邸#
+kh_school.rsw#启海伊洛学院#
+kh_vila.rsw#启海伊洛别墅#
+auction_01.rsw#拍卖场01#
+auction_02.rsw#拍卖场02#
+que_job01.rsw#秘密酒店01#
+abyss_01.rsw#深渊湖水地下洞穴1F#
+abyss_02.rsw#深渊湖水地下洞穴2F#
+abyss_03.rsw#深渊湖水地下洞穴3F#
+tha_t01.rsw#达纳托斯塔台1F#
+tha_t02.rsw#达纳托斯塔台2F#
+tha_t03.rsw#达纳托斯塔台3F#
+tha_t04.rsw#达纳托斯塔台4F#
+tha_t05.rsw#达纳托斯塔台5F#
+tha_t06.rsw#达纳托斯塔台6F#
+tha_t07.rsw#达纳托斯塔台7F#
+tha_t08.rsw#达纳托斯塔台8F#
+tha_t09.rsw#达纳托斯塔台9F#
+tha_t10.rsw#达纳托斯塔台10F#
+tha_t11.rsw#达纳托斯塔台11F#
+tha_t12.rsw#达纳托斯塔台12F#
+thana_step.rsw#达纳托斯塔台上层部#
+thana_boss.rsw#达纳托斯塔台(不知名的地方)#
 thana_scene01.rsw#鸥唱配胶 鸥况 菊#
-job_soul.rsw#寸脚狼 付澜#
-job_star.rsw#怕剧苞 崔苞 喊#
+job_soul.rsw#你的心#
+job_star.rsw#太阳和月亮和星星#
 //hu_fild07.rsw#戎爸 鞘靛#	2008斥 府春倔
-hu_fild05.rsw#戎爸 绢厚胶 龋荐#
-hu_fild04.rsw#戎爸 鞘靛#
-hu_fild01.rsw#鸥唱配胶 鸥况 菊#
-yuno_fild06.rsw#郡皋胶 敲饭捧#
-quiz_02.rsw#柠令 版扁厘#
-jupe_cave.rsw#蜡其肺胶 悼奔 涝备#
-juperos_01.rsw#蜡其肺胶 企倾 寇何#
-juperos_02.rsw#蜡其肺胶 企倾 郴何#
-jupe_gate.rsw#蜡其肺胶 焊救 备开#
-jupe_area1.rsw#蜡其肺胶 焊救 备开#
-jupe_area2.rsw#蜡其肺胶 焊救 备开#
-jupe_ele.rsw#蜡其肺胶 郡府海捞磐#
-jupe_ele_r.rsw#蜡其肺胶 郡府海捞磐角#
-jupe_core.rsw#蜡其肺胶 吝缴何#
-lighthalzen.rsw#扁诀档矫 府洒鸥福哩#
-lhz_in01.rsw#饭乃海福 夯荤#
-lhz_in02.rsw#府洒鸥福哩 郴何#
-lhz_in03.rsw#府洒鸥福哩 郴何#
-lhz_cube.rsw#钮宏 冯#
-lhz_que01.rsw#府洒鸥福哩 郴何#
-lhz_airport.rsw#府洒鸥福哩 傍亲#
-airplane_01.rsw#厚傍沥#
-lhz_dun01.rsw#积眉角氰 楷备家 瘤窍 1摸#
-lhz_dun02.rsw#积眉角氰 楷备家 瘤窍 2摸#
-lhz_dun03.rsw#积眉角氰 楷备家 瘤窍 3摸#
-lhz_fild01.rsw#府洒鸥福哩 鞘靛#
-yuno_pre.rsw#酱惯明惯靛 沥何 没荤#
-y_airport.rsw#蜡畴 傍亲#
-lhz_fild03.rsw#府洒鸥福哩 鞘靛#
-lhz_fild02.rsw#府洒鸥福哩 鞘靛(荤脚狼 拌邦)#
-ein_fild04.rsw#酒牢宏肺农 鞘靛#
-ein_fild03.rsw#酒牢宏肺农 鞘靛#
-ein_dun02.rsw#酒牢海儒 堡魂 2摸#
-ein_dun01.rsw#酒牢海儒 堡魂 1摸#
+hu_fild05.rsw#深渊湖水05#
+hu_fild04.rsw#毁葛原野04#
+hu_fild01.rsw#达纳托斯塔台#
+yuno_fild06.rsw#尔迈斯瀑雷德#
+quiz_02.rsw#OX益智游戏竞赛场03#
+jupe_cave.rsw#优配擂斯洞穴入口#
+juperos_01.rsw#优配擂斯废墟1F#
+juperos_02.rsw#优配擂斯废墟2F#
+jupe_gate.rsw#优配擂斯保安区域#
+jupe_area1.rsw#优配擂斯保安区域#
+jupe_area2.rsw#优配擂斯保安区域#
+jupe_ele.rsw#优配擂斯电梯#
+jupe_ele_r.rsw#优配擂斯电梯室#
+jupe_core.rsw#优配擂斯中心部#
+lighthalzen.rsw#企业之都 里希塔乐镇#
+lhz_in01.rsw#雷根贝勒总公司#
+lhz_in02.rsw#里希塔乐镇室内#
+lhz_in03.rsw#里希塔乐镇室内#
+lhz_cube.rsw#正立方体房间#
+lhz_que01.rsw#里希塔乐镇室内#
+lhz_airport.rsw#里希塔乐镇机场#
+airplane_01.rsw#飞空艇#
+lhz_dun01.rsw#生体试验研究所1F#
+lhz_dun02.rsw#生体试验研究所2F#
+lhz_dun03.rsw#生体试验研究所3F#
+lhz_fild01.rsw#里希塔乐镇原野01(北门外)#
+yuno_pre.rsw#秀发兹发德政府厅舍#
+y_airport.rsw#朱诺机场#
+lhz_fild03.rsw#里希塔乐镇原野02#
+lhz_fild02.rsw#里希塔乐镇原野03(死神的峡谷)#
+ein_fild04.rsw#艾音布罗克原野04(北门外)#
+ein_fild03.rsw#艾音布罗克原野03#
+ein_dun02.rsw#矿山洞穴2F#
+ein_dun01.rsw#矿山洞穴1F#
 //ein_fild10.rsw#酒牢宏肺农 鞘靛#	2008斥 府春倔
-ein_fild09.rsw#酒牢宏肺农 鞘靛#
-ein_fild08.rsw#酒牢宏肺农 鞘靛#
-ein_fild07.rsw#酒牢宏肺农 鞘靛#
-ein_fild06.rsw#酒牢宏肺农 鞘靛#
-airplane.rsw#厚傍沥#
-airport.rsw#酒牢宏肺农 傍亲#
-ein_in01.rsw#角郴#
-einbech.rsw#盲堡付阑 酒牢海儒#
-einbroch.rsw#碍枚档矫 酒牢宏肺农#
-turbo_e_16.rsw#磐焊飘发 版扁厘#
-turbo_e_8.rsw#磐焊飘发 版扁厘#
-turbo_e_4.rsw#磐焊飘发 版扁厘#
-turbo_n_16.rsw#磐焊飘发 版扁厘#
-turbo_n_8.rsw#磐焊飘发 版扁厘#
-turbo_n_4.rsw#磐焊飘发 版扁厘#
-turbo_n_1.rsw#磐焊飘发 版扁厘#
-turbo_room.rsw#磐焊飘发 措扁角#
-yuno_fild12.rsw#酱惯明惯靛 惫版 八巩家#
-yuno_fild11.rsw#蜡畴 鞘靛#
-yuno_fild09.rsw#酱惯明惯靛 版厚措 具康瘤#
-yuno_fild08.rsw#蜡畴 懦 窍捞福 切盔#
-yuno_fild07.rsw#郡皋胶 蛆邦(缴楷狼 榜楼扁)#
+ein_fild09.rsw#艾音布罗克原野09#
+ein_fild08.rsw#艾音布罗克原野08(南门外)#
+ein_fild07.rsw#艾音布罗克原野07#
+ein_fild06.rsw#艾音布罗克原野06#
+airplane.rsw#飞空艇#
+airport.rsw#艾音布罗克机场#
+ein_in01.rsw#艾音布罗克室内#
+einbech.rsw#采矿村落 艾音贝赫#
+einbroch.rsw#钢铁之都 艾音布罗克#
+turbo_e_16.rsw#竞速场地竞赛场#
+turbo_e_8.rsw#竞速场地竞赛场#
+turbo_e_4.rsw#竞速场地竞赛场#
+turbo_n_16.rsw#竞速场地竞赛场#
+turbo_n_8.rsw#竞速场地竞赛场#
+turbo_n_4.rsw#竞速场地竞赛场#
+turbo_n_1.rsw#竞速场地竞赛场#
+turbo_room.rsw#竞速场地等待室#
+yuno_fild12.rsw#国界检查站(艾尔帕兰西北方)#
+yuno_fild11.rsw#朱诺原野#
+yuno_fild09.rsw#秀发兹发德警备队露营地#
+yuno_fild08.rsw#启海伊洛学院#
+yuno_fild07.rsw#优配擂斯外#
 //yuno_fild05.rsw#郡皋胶 敲饭捧#	2008斥 府春倔
-ayo_in02.rsw#酒夸鸥具 郴何#
-ayo_in01.rsw#酒夸鸥具 郴何#
-ayo_dun02.rsw#酒夸鸥具 绊措 脚傈 郴何#
-ayo_dun01.rsw#酒夸鸥具 绊措 脚傈 固泵#
-ayo_fild02.rsw#酒夸鸥具 鞘靛#
-ayo_fild01.rsw#酒夸鸥具 鞘靛#
-ayothaya.rsw#酒夸鸥具#
-que_god02.rsw#涅胶飘甘#
-que_god01.rsw#涅胶飘甘#
-quiz_test.rsw#矫氰厘#
-gefenia04.rsw#霸其聪酒#
-gefenia03.rsw#霸其聪酒#
-gefenia02.rsw#霸其聪酒#
-gefenia01.rsw#霸其聪酒#
-himinn.rsw#惯虐府 脚傈(洒刮)#
-jawaii_in.rsw#磊客捞 郴何#
-jawaii.rsw#脚去级 磊客捞#
-lou_in02.rsw#侩瘤己 郴何#
-lou_in01.rsw#侩瘤己 郴何#
-lou_dun03.rsw#侩瘤己 季剧泵#
-lou_dun02.rsw#侩瘤己 空釜 郴何#
-lou_dun01.rsw#侩瘤己 空釜#
-lou_fild01.rsw#侩瘤己 鞘靛#
-louyang.rsw#绊档 侩瘤己#
-valkyrie.rsw#惯虐府 脚傈(困措茄 傈荤狼 傈寸)#
-nif_in.rsw#聪敲庆烙 郴何#
-yggdrasil01.rsw#儒海福爸固福狼 基(捞弊靛扼角临扁)#
-nif_fild02.rsw#聪敲庆烙 钡狼 榜楼扁#
-nif_fild01.rsw#聪敲庆烙 寇谍付阑 胶奶傅瓢#
-niflheim.rsw#磷篮磊狼 唱扼 聪敲庆烙#
-um_dun01.rsw#框惯扼 唱公 加狼 格傍家#
-um_dun02.rsw#框惯扼 唱公 加狼 捞拌 烹肺#
-um_in.rsw#框惯扼 郴何#
-um_fild01.rsw#框惯扼 风风墨 剑#
-um_fild02.rsw#框惯扼 壬啊 剑#
-um_fild03.rsw#框惯扼 墨扼扼 此#
-um_fild04.rsw#框惯扼 壬啊 沥臂#
-umbala.rsw#快藕练付阑 框惯扼#
-sec_in01.rsw#惯且扼泵 郴何#
-sec_in02.rsw#惯且扼泵 郴何#
-sec_pri.rsw#惯且扼泵 馆己狼 规(皑苛)#
-gon_test.rsw#娘烽 拜捧厘#
-gon_dun01.rsw#娘烽 辑空葛 脚傈#
-gon_dun02.rsw#娘烽 脚急狼 官迪魄#
-gon_dun03.rsw#娘烽 公釜档盔#
-gon_fild01.rsw#娘烽 鞘靛#
-gon_in.rsw#娘烽 郴何#
-gonryun.rsw#脚急狼 级 娘烽(瓦啄)#
-ama_test.rsw#酒付玛 葛葛鸥肺 眉氰家#
-ama_dun03.rsw#酒付玛 瘤窍 脚荤#
-ama_dun02.rsw#酒付玛 瘤窍 剑 傈厘#
-ama_dun01.rsw#酒付玛 促促固 固泵#
-ama_fild01.rsw#酒付玛 鞘靛#
-ama_in02.rsw#玫荐阿 郴何#
-ama_in01.rsw#酒付玛 郴何#
-amatsu.rsw#玫荐狼 唱扼 酒付玛#
-alde_alche.rsw#舅纳固胶飘 傈流家#
-yuno_in05.rsw#捞固福狼 缴厘 悼仿角#
-yuno_in04.rsw#傍拳惫 档辑包#
-job_duncer.rsw#内葛档 家必厘#
-job_sage.rsw#技捞瘤 傈流 矫氰厘#
-job_cru.rsw#农风技捞歹 傈流 矫氰厘#
-job_monk.rsw#己 墨乔喷府唱 荐档盔#
-monk_test.rsw#己 墨乔喷府唱 荐档盔#
-in_rogue.rsw#肺弊 辨靛 郴何#
-mag_dun02.rsw#蜡畴 畴弊肺靛 2摸#
-mag_dun01.rsw#蜡畴 畴弊肺靛 1摸#
-yuno_fild04.rsw#郡皋胶 敲饭捧#
-yuno_fild03.rsw#郡皋胶 敲饭捧#
-yuno_fild02.rsw#懦 窍捞福狼 喊厘#
-yuno_fild01.rsw#酱惯明惯靛 惫版 八巩家#
-yuno_in03.rsw#蜡畴 郴何#
-yuno_in02.rsw#技捞瘤 纳浇郴何#
-yuno_in01.rsw#蜡畴 郴何#
-yuno.rsw#酱惯明惯靛 傍拳惫 荐档 蜡畴#
-job_wiz.rsw#困廉靛 傈流 矫氰厘#
-job_prist.rsw#橇府胶飘 傈流 矫氰厘#
-job_knt.rsw#唱捞飘 傈流 矫氰厘#
-job_hunte.rsw#清磐 傈流 矫氰厘#
-gld_dun04.rsw#辨靛 瘤窍 带傈#
-gld_dun03.rsw#辨靛 瘤窍 带傈#
-gld_dun02.rsw#辨靛 瘤窍 带傈#
-gld_dun01.rsw#辨靛 瘤窍 带傈#
-payg_cas05.rsw#没覆 龋荐 辨靛#
-payg_cas04.rsw#没覆 龋荐 辨靛#
-payg_cas03.rsw#没覆 龋荐 辨靛#
-payg_cas02.rsw#没覆 龋荐 辨靛#
-payg_cas01.rsw#没覆 龋荐 辨靛#
-pay_gld.rsw#没覆 龋荐#
-aldeg_cas05.rsw#风捞唱 辨靛#
-aldeg_cas04.rsw#风捞唱 辨靛#
-aldeg_cas03.rsw#风捞唱 辨靛#
-aldeg_cas02.rsw#风捞唱 辨靛#
-aldeg_cas01.rsw#风捞唱 辨靛#
-alde_gld.rsw#舅单官鄂 困己档矫 风捞唱#
-gefg_cas05.rsw#宏府配府酒 辨靛#
-gefg_cas04.rsw#宏府配府酒 辨靛#
-gefg_cas03.rsw#宏府配府酒 辨靛#
-gefg_cas02.rsw#宏府配府酒 辨靛#
-gefg_cas01.rsw#宏府配府酒 辨靛#
-prtg_cas05.rsw#惯虐府 芳抚 辨靛#
-prtg_cas04.rsw#惯虐府 芳抚 辨靛#
-prtg_cas03.rsw#惯虐府 芳抚 辨靛#
-prtg_cas02.rsw#惯虐府 芳抚 辨靛#
-prtg_cas01.rsw#惯虐府 芳抚 辨靛#
-prt_gld.rsw#惯虐府 芳抚#
-tur_dun01.rsw#芭合捞 级#
-tur_dun02.rsw#芭合捞 级 带傈#
-tur_dun03.rsw#剧芭锰#
-tur_dun04.rsw#备剧泵#
-tur_dun05.rsw#瘤窍 此 瘤措#
-tur_dun06.rsw#瘤窍 此 瘤措#
-guild_vs5.rsw#辨靛 措亲 版扁厘#
-guild_vs4.rsw#辨靛 措亲 版扁厘#
-guild_vs3.rsw#辨靛 措亲 版扁厘#
-guild_vs2.rsw#辨靛 措亲 版扁厘#
-guild_vs1.rsw#辨靛 措亲 版扁厘#
-guild_room.rsw#辨靛 措亲 版扁厘 措扁角#
-quiz_00.rsw#柠令 版扁厘#
-quiz_01.rsw#柠令 版扁厘#
+ayo_in02.rsw#哎哟泰雅室内#
+ayo_in01.rsw#哎哟泰雅室内#
+ayo_dun02.rsw#古代神殿迷宫2F#
+ayo_dun01.rsw#古代神殿迷宫1F#
+ayo_fild02.rsw#哎哟泰雅原野02#
+ayo_fild01.rsw#哎哟泰雅原野01#
+ayothaya.rsw#哎哟泰雅#
+que_god02.rsw#神器制作02#
+que_god01.rsw#神器制作01#
+quiz_test.rsw#益智考试场#
+gefenia04.rsw#葛帔尼亚(左下)#
+gefenia03.rsw#葛帔尼亚(左上)#
+gefenia02.rsw#葛帔尼亚(右上)#
+gefenia01.rsw#葛帔尼亚(右下)#
+himinn.rsw#巴基力神殿#
+jawaii_in.rsw#爪哇咿室内#
+jawaii.rsw#蜜月岛 爪哇咿#
+lou_in02.rsw#龙之城室内#
+lou_in01.rsw#龙之城室内#
+lou_dun03.rsw#洛阳地下3F(审良宫)#
+lou_dun02.rsw#洛阳地下2F(内王陵)#
+lou_dun01.rsw#洛阳地下1F(外王陵)#
+lou_fild01.rsw#洛阳南门外#
+louyang.rsw#古都 龙之城(洛阳)#
+valkyrie.rsw#巴基力神殿(伟大战士们的殿堂)#
+nif_in.rsw#尼芙菲姆室内#
+yggdrasil01.rsw#禾贝勒开米勒之岛(天地树干)#
+nif_fild02.rsw#鬼的峡谷(尼芙菲姆外)#
+nif_fild01.rsw#斯凯领顿(尼芙菲姆 偏远村落)#
+niflheim.rsw#死者国家 尼芙菲姆#
+um_dun01.rsw#汶巴拉地下1F#
+um_dun02.rsw#汶巴拉地下2F#
+um_in.rsw#汶巴拉室内#
+um_fild01.rsw#噜噜卡森林#
+um_fild02.rsw#沪家森林#
+um_fild03.rsw#卡拉拉森林#
+um_fild04.rsw#汶巴拉外#
+umbala.rsw#雨檀族村落 汶巴拉#
+sec_in01.rsw#巴哈拉宫室内#
+sec_in02.rsw#巴哈拉宫室内#
+sec_pri.rsw#巴哈拉宫反省的房间(监狱)#
+gon_test.rsw#昆仑战斗场#
+gon_dun01.rsw#昆仑地下1F(西王母神殿)#
+gon_dun02.rsw#昆仑地下2F(神仙的围棋台)#
+gon_dun03.rsw#昆仑地下3F(武陵道院)#
+gon_fild01.rsw#昆仑原野#
+gon_in.rsw#昆仑室内#
+gonryun.rsw#神仙之岛 昆仑#
+ama_test.rsw#摩摩塔乐体验所#
+ama_dun03.rsw#天津町地下3F(地下神舍)#
+ama_dun02.rsw#天津町地下2F(地下战场)#
+ama_dun01.rsw#天津町地下1F(榻榻米迷宫)#
+ama_fild01.rsw#天津町原野#
+ama_in02.rsw#天津町城内#
+ama_in01.rsw#天津町室内#
+amatsu.rsw#天水之国 天津町#
+alde_alche.rsw#炼金术师转职所#
+yuno_in05.rsw#伊美乐的心脏动力室#
+yuno_in04.rsw#朱诺室内#
+job_duncer.rsw#克魔岛小剧场(舞娘转职考试场)#
+job_sage.rsw#贤者转职考试场#
+job_cru.rsw#十字军转职考试场#
+job_monk.rsw#圣卡毕利那修道院(武道家转职考试场)#
+monk_test.rsw#圣卡毕利那修道院(武道家转职所)#
+in_rogue.rsw#流氓工会室内#
+mag_dun02.rsw#诺可罗德(火洞2F)#
+mag_dun01.rsw#诺可罗德(火洞1F)#
+yuno_fild04.rsw#朱诺南门外#
+yuno_fild03.rsw#尔迈斯瀑雷德#
+yuno_fild02.rsw#启海伊洛别墅#
+yuno_fild01.rsw#艾尔帕兰北门外#
+yuno_in03.rsw#朱诺室内#
+yuno_in02.rsw#贤者城堡室内#
+yuno_in01.rsw#朱诺室内#
+yuno.rsw#修发兹共和国首都 朱诺#
+job_wiz.rsw#巫师转职考场#
+job_prist.rsw#祭司转职考场#
+job_knt.rsw#骑士转职考场#
+job_hunte.rsw#猎人转职考场#
+gld_dun04.rsw#地下公会密穴(吉芬)#
+gld_dun03.rsw#地下公会密穴(普隆德拉)#
+gld_dun02.rsw#地下公会密穴(艾尔帕兰)#
+gld_dun01.rsw#地下公会密穴(斐扬)#
+payg_cas05.rsw#竹林岘(斐扬中上)#
+payg_cas04.rsw#红楼(斐扬左下)#
+payg_cas03.rsw#佛影(斐扬右上)#
+payg_cas02.rsw#天坛(斐扬右下)#
+payg_cas01.rsw#明亭(斐扬左上)#
+pay_gld.rsw#青林湖泊#
+aldeg_cas05.rsw#罗探布勒克(新城右下)#
+aldeg_cas04.rsw#布勒刺布勒克(新城右上)#
+aldeg_cas03.rsw#纽蓝贝勒克(新城中下)#
+aldeg_cas02.rsw#乎汗修番佳乌(新城左上)#
+aldeg_cas01.rsw#娜易修番斯塔引(新城左下)#
+alde_gld.rsw#艾尔帕兰卫星都市 露依纳#
+gefg_cas05.rsw#眉撒丝达刺(吉芬右下)#
+gefg_cas04.rsw#培勒格(吉芬中上)#
+gefg_cas03.rsw#易司那普(吉芬左上)#
+gefg_cas02.rsw#耀布力格(吉芬右上)#
+gefg_cas01.rsw#雷普立温(吉芬中下)#
+prtg_cas05.rsw#关德(中央右上)#
+prtg_cas04.rsw#司葵古(中央左上)#
+prtg_cas03.rsw#拉兹立克斯(中央中间)#
+prtg_cas02.rsw#斯般希特(中央右下)#
+prtg_cas01.rsw#克林希特(中央左下)#
+prt_gld.rsw#巴基力雷恩#
+tur_dun01.rsw#乌龟岛#
+tur_dun02.rsw#乌龟岛密穴1F#
+tur_dun03.rsw#乌龟岛密穴2F#
+tur_dun04.rsw#乌龟岛密穴3F#
+tur_dun05.rsw#乌龟岛密穴4F#
+tur_dun06.rsw#乌龟岛密穴5F#
+guild_vs5.rsw#公会对抗竞技场05#
+guild_vs4.rsw#公会对抗竞技场04#
+guild_vs3.rsw#公会对抗竞技场03#
+guild_vs2.rsw#公会对抗竞技场02#
+guild_vs1.rsw#公会对抗竞技场01#
+guild_room.rsw#公会对抗竞技场休息室#
+quiz_00.rsw#OX益智游戏竞赛场01#
+quiz_01.rsw#OX益智游戏竞赛场02#
 //gef_fild12.rsw#内飘 剑#	2008斥 府春倔
-gef_fild13.rsw#宏府配府酒#
+gef_fild13.rsw#怖立特离亚#
 //gef_fild14.rsw#辑率 坷农 付阑#	2008斥 府春倔
-cmd_in02.rsw#内葛档 郴何#
-cmd_in01.rsw#内葛档 郴何#
-comodo.rsw#秦函档矫 内葛档#
-beach_dun.rsw#内葛档 辑率 悼奔 墨风#
-beach_dun2.rsw#内葛档 合率 悼奔 风救促#
-beach_dun3.rsw#内葛档 悼率 悼奔 付坷#
-cmd_fild01.rsw#内葛档 颇仟摹墨 剑#
-cmd_fild02.rsw#内葛档 内内葛 秦函#
-cmd_fild03.rsw#内葛档 瘤唱捞 此#
-cmd_fild04.rsw#内葛档 内内葛 秦函#
+cmd_in02.rsw#克魔岛室内(赌场)#
+cmd_in01.rsw#克魔岛室内#
+comodo.rsw#海边之都 克魔岛#
+beach_dun.rsw#西边洞穴 加露#
+beach_dun2.rsw#北边洞穴 卢安达#
+beach_dun3.rsw#东边洞穴 马吾#
+cmd_fild01.rsw#巴不其卡森林#
+cmd_fild02.rsw#克克魔海边#
+cmd_fild03.rsw#基乃依沼泽地#
+cmd_fild04.rsw#克克魔海边#
 //cmd_fild05.rsw#内葛档 颇仟摹墨 剑 版拌#	2008斥 府春倔
-cmd_fild06.rsw#夸货档矫 魂促福父 辑率 瘤开#
-cmd_fild07.rsw#颇肺胶 殿措级#
-cmd_fild08.rsw#夸货档矫 魂促福父 悼率 瘤开#
-cmd_fild09.rsw#夸货档矫 魂促福父 巢率 瘤开#
-xmas_in.rsw#风萍俊 郴何#
-xmas_dun02.rsw#风萍俊 厘抄皑 盒幅家#
-xmas_dun01.rsw#风萍俊 厘抄皑 傍厘 芒绊#
-xmas_fild01.rsw#风萍俊 鞘靛#
-xmas.rsw#传狼 付阑 风萍俊(Lutie)#
-mjolnir_01.rsw#功福匆 魂钙 合率 瘤开#
-mjolnir_02.rsw#功福匆 魂钙 合率 瘤开#
-mjolnir_03.rsw#功福匆 魂钙 合率 瘤开#
-mjolnir_04.rsw#功福匆 魂钙 合率 瘤开#
-mjolnir_05.rsw#功福匆 魂钙 合率 瘤开#
-mjolnir_06.rsw#功福匆 魂钙 巢率 瘤开#
-mjolnir_07.rsw#功福匆 魂钙 巢率 瘤开#
-mjolnir_08.rsw#功福匆 魂钙 巢率 瘤开#
-mjolnir_09.rsw#功福匆 魂钙 巢率 魂扁骄#
-mjolnir_10.rsw#功福匆 魂钙 巢率 瘤开#
-mjolnir_11.rsw#功福匆 魂钙 巢率 瘤开#
-mjolnir_12.rsw#功福匆 魂钙 合率 魂扁骄#
-prt_fild00.rsw#橇沸抛扼 鞘靛#
-prt_fild01.rsw#橇沸抛扼 鞘靛#
-prt_fild02.rsw#橇沸抛扼 鞘靛#
-prt_fild03.rsw#橇沸抛扼 鞘靛#
-prt_fild04.rsw#橇沸抛扼 鞘靛#
-prt_fild05.rsw#橇沸抛扼 鞘靛#
-prt_fild06.rsw#橇沸抛扼 鞘靛#
-prt_fild07.rsw#橇沸抛扼 鞘靛#
-prt_fild08.rsw#橇沸抛扼 鞘靛#
-prt_fild09.rsw#橇沸抛扼 鞘靛#
-prt_fild10.rsw#橇沸抛扼 鞘靛#
-prt_fild11.rsw#橇沸抛扼 鞘靛#
-prt_monk.rsw#己 墨乔喷府唱 荐档盔#
-gef_fild00.rsw#霸奇 鞘靛#
-gef_fild01.rsw#霸奇 鞘靛#
-gef_fild02.rsw#霸奇 鞘靛#
-gef_fild03.rsw#霸奇 鞘靛#
-gef_fild04.rsw#霸奇 鞘靛#
-gef_fild05.rsw#笼矫 付阑#
-gef_fild06.rsw#霸奇 鞘靛#
-gef_fild07.rsw#霸奇 鞘靛#
-gef_fild08.rsw#霸奇 鞘靛#
-gef_fild09.rsw#霸奇 鞘靛#
-gef_fild10.rsw#坷农 付阑#
-in_orcs01.rsw#坷农 付阑 角郴#
-gef_fild11.rsw#霸奇 鞘靛#
-moc_fild01.rsw#家弊扼飘 荤阜#
-moc_fild02.rsw#家弊扼飘 荤阜#
-moc_fild03.rsw#家弊扼飘 荤阜#
+cmd_fild06.rsw#要塞都市 山特乐曼(西边)#
+cmd_fild07.rsw#发乐斯 灯塔岛#
+cmd_fild08.rsw#要塞都市 山特乐曼(东边)#
+cmd_fild09.rsw#要塞都市 山特乐曼(南边)#
+xmas_in.rsw#姜饼城室内#
+xmas_dun02.rsw#玩具分类场2F#
+xmas_dun01.rsw#玩具分类场1F#
+xmas_fild01.rsw#姜饼城原野#
+xmas.rsw#白雪村落 姜饼城#
+mjolnir_01.rsw#妙勒尼山脉#
+mjolnir_02.rsw#妙勒尼废弃矿场外#
+mjolnir_03.rsw#妙勒尼山脉#
+mjolnir_04.rsw#妙勒尼山脉#
+mjolnir_05.rsw#妙勒尼山脉#
+mjolnir_06.rsw#妙勒尼山脉#
+mjolnir_07.rsw#妙勒尼山脉#
+mjolnir_08.rsw#妙勒尼山脉#
+mjolnir_09.rsw#妙勒尼山脉#
+mjolnir_10.rsw#妙勒尼山脉#
+mjolnir_11.rsw#妙勒尼山脉#
+mjolnir_12.rsw#艾尔帕兰南门外#
+prt_fild00.rsw#普隆德拉区域#
+prt_fild01.rsw#普隆德拉北门外#
+prt_fild02.rsw#普隆德拉区域#
+prt_fild03.rsw#圣卡毕利那修道院外#
+prt_fild04.rsw#普隆德拉区域#
+prt_fild05.rsw#普隆德拉西门外#
+prt_fild06.rsw#普隆德拉东门外#
+prt_fild07.rsw#普隆德拉左1下1#
+prt_fild08.rsw#普隆德拉南门外#
+prt_fild09.rsw#普隆德拉左1下2#
+prt_fild10.rsw#普隆德拉左2下2#
+prt_fild11.rsw#普隆德拉左3下3#
+prt_monk.rsw#圣卡毕利那修道院#
+gef_fild00.rsw#吉芬东门外#
+gef_fild01.rsw#吉芬区域#
+gef_fild02.rsw#吉芬区域#
+gef_fild03.rsw#吉芬区域#
+gef_fild04.rsw#吉芬北门外#
+gef_fild05.rsw#吉芬区域#
+gef_fild06.rsw#吉芬区域(古城外)#
+gef_fild07.rsw#吉芬西门外#
+gef_fild08.rsw#吉芬区域#
+gef_fild09.rsw#吉芬南门外#
+gef_fild10.rsw#东边兽人村落#
+in_orcs01.rsw#兽人村落室内#
+gef_fild11.rsw#吉芬区域#
+moc_fild01.rsw#苏克拉特沙漠#
+moc_fild02.rsw#苏克拉特沙漠#
+moc_fild03.rsw#苏克拉特沙漠#
 //moc_fild04.rsw#家弊扼飘 荤阜#	2008 葛肺农
 //moc_fild05.rsw#家弊扼飘 荤阜#	2008 葛肺农
 //moc_fild06.rsw#家弊扼飘 荤阜#	2008 葛肺农
-moc_fild07.rsw#家弊扼飘 荤阜#
+moc_fild07.rsw#梦罗克北门外#
 //moc_fild08.rsw#家弊扼飘 荤阜#	2008 葛肺农
 //moc_fild09.rsw#家弊扼飘 荤阜#	2008 葛肺农
 //moc_fild10.rsw#家弊扼飘 荤阜#	2008 葛肺农
-moc_fild11.rsw#家弊扼飘 荤阜#
-moc_fild12.rsw#家弊扼飘 荤阜#
-moc_fild13.rsw#家弊扼飘 荤阜#
+moc_fild11.rsw#苏克拉特沙漠#
+moc_fild12.rsw#梦罗克南门外#
+moc_fild13.rsw#苏克拉特沙漠#
 //moc_fild14.rsw#家弊扼飘 荤阜#	2008 葛肺农
 //moc_fild15.rsw#家弊扼飘 荤阜#	2008 葛肺农
-moc_fild16.rsw#家弊扼飘 荤阜#
-in_moc_16.rsw#绢货脚 辨靛#
-moc_fild17.rsw#家弊扼飘 荤阜#
-moc_fild18.rsw#家弊扼飘 荤阜#
-moc_fild19.rsw#家弊扼飘 荤阜#
-pay_fild01.rsw#其捞挎 剑 加#
-pay_fild02.rsw#其捞挎 剑 加#
-pay_fild03.rsw#其捞挎 剑 加#
-pay_fild04.rsw#家弊扼飘 荤阜#
+moc_fild16.rsw#苏克拉特沙漠(刺客工会外)#
+in_moc_16.rsw#刺客工会#
+moc_fild17.rsw#苏克拉特沙漠#
+moc_fild18.rsw#苏克拉特沙漠#
+moc_fild19.rsw#史芬克斯密穴外#
+pay_fild01.rsw#斐扬南门外#
+pay_fild02.rsw#斐扬下2#
+pay_fild03.rsw#艾尔贝塔西门外#
+pay_fild04.rsw#波利岛#
 //pay_fild05.rsw#其捞挎 剑 加#	2008斥 府春倔
-pay_fild06.rsw#其捞挎 剑 加#
-pay_fild07.rsw#其捞挎 剑 加#
-pay_fild08.rsw#其捞挎 剑 加#
-pay_fild09.rsw#其捞挎 剑 加#
-pay_fild10.rsw#其捞挎 剑 加#
+pay_fild06.rsw#艾尔贝塔左1下1#
+pay_fild07.rsw#斐扬右1下1#
+pay_fild08.rsw#斐扬东门外#
+pay_fild09.rsw#斐扬右2#
+pay_fild10.rsw#斐扬右2下1#
 //pay_fild11.rsw#其捞挎 剑 加#	2008斥 府春倔
-new_1-1.rsw#檬焊磊 荐访厘#
-new_2-1.rsw#檬焊磊 荐访厘#
-new_3-1.rsw#檬焊磊 荐访厘#
-new_4-1.rsw#檬焊磊 荐访厘#
-new_5-1.rsw#檬焊磊 荐访厘#
-new_1-2.rsw#檬焊磊 荐访厘#
-new_2-2.rsw#檬焊磊 荐访厘#
-new_3-2.rsw#檬焊磊 荐访厘#
-new_4-2.rsw#檬焊磊 荐访厘#
-new_5-2.rsw#檬焊磊 荐访厘#
-new_1-3.rsw#檬焊磊 荐访厘#
-new_2-3.rsw#檬焊磊 荐访厘#
-new_3-3.rsw#檬焊磊 荐访厘#
-new_4-3.rsw#檬焊磊 荐访厘#
-new_5-3.rsw#檬焊磊 荐访厘#
-new_1-4.rsw#檬焊磊 荐访厘#
-new_2-4.rsw#檬焊磊 荐访厘#
-new_3-4.rsw#檬焊磊 荐访厘#
-new_4-4.rsw#檬焊磊 荐访厘#
+new_1-1.rsw#初学者修炼场1-1#
+new_2-1.rsw#初学者修炼场1-2#
+new_3-1.rsw#初学者修炼场3-1#
+new_4-1.rsw#初学者修炼场4-1#
+new_5-1.rsw#初学者修炼场5-1#
+new_1-2.rsw#初学者修炼场1-2#
+new_2-2.rsw#初学者修炼场2-2#
+new_3-2.rsw#初学者修炼场3-2#
+new_4-2.rsw#初学者修炼场4-2#
+new_5-2.rsw#初学者修炼场5-2#
+new_1-3.rsw#初学者修炼场1-3#
+new_2-3.rsw#初学者修炼场2-3#
+new_3-3.rsw#初学者修炼场3-3#
+new_4-3.rsw#初学者修炼场4-3#
+new_5-3.rsw#初学者修炼场5-3#
+new_1-4.rsw#初学者修炼场1-4#
+new_2-4.rsw#初学者修炼场2-4#
+new_3-4.rsw#初学者修炼场3-4#
+new_4-4.rsw#初学者修炼场4-4#
 //new_5-4.rsw#檬焊磊 荐访厘#  气藕规包访 昏力
-anthell01.rsw#葛肺农 俺固瘤苛 带傈 1摸#
-anthell02.rsw#葛肺农 俺固瘤苛 带傈 2摸#
-gef_dun00.rsw#霸奇 瘤窍 带傈 1摸#
-gef_dun01.rsw#霸奇 瘤窍 带傈 2摸#
-gef_dun02.rsw#霸奇 瘤窍 带傈 3摸#
-gef_dun03.rsw#霸其聪酒 带傈#
-iz_dun00.rsw#捞令风靛 秦历悼奔 带傈 1摸#
-iz_dun01.rsw#捞令风靛 秦历悼奔 带傈 2摸#
-iz_dun02.rsw#捞令风靛 秦历悼奔 带傈 3摸#
-iz_dun03.rsw#捞令风靛 秦历悼奔 带傈 4摸#
-iz_dun04.rsw#捞令风靛 秦历悼奔 带傈 5摸#
+anthell01.rsw#蚂蚁地狱密穴1F#
+anthell02.rsw#蚂蚁地狱密穴2F#
+gef_dun00.rsw#吉芬地下密穴1F#
+gef_dun01.rsw#吉芬地下密穴2F#
+gef_dun02.rsw#吉芬地下密穴3F#
+gef_dun03.rsw#吉芬地下密穴4F#
+iz_dun00.rsw#海底洞窟1F#
+iz_dun01.rsw#海底洞窟2F#
+iz_dun02.rsw#海底洞窟3F#
+iz_dun03.rsw#海底洞窟4F#
+iz_dun04.rsw#海底洞窟5F#
 //iz_dun05.rsw#捞令风靛 秦历悼奔 带傈 6摸#
-in_sphinx1.rsw#葛肺农 胶俏农胶 瘤窍 1摸#
-in_sphinx2.rsw#葛肺农 胶俏农胶 瘤窍 2摸#
-in_sphinx3.rsw#葛肺农 胶俏农胶 瘤窍 3摸#
-in_sphinx4.rsw#葛肺农 胶俏农胶 瘤窍 4摸#
-in_sphinx5.rsw#葛肺农 胶俏农胶 瘤窍 5摸#
-moc_pryd01.rsw#葛肺农 乔扼固靛 1摸#
-moc_pryd02.rsw#葛肺农 乔扼固靛 2摸#
-moc_pryd03.rsw#葛肺农 乔扼固靛 3摸#
-moc_pryd04.rsw#葛肺农 乔扼固靛 4摸#
-moc_pryd05.rsw#葛肺农 乔扼固靛 瘤窍 1摸#
-moc_pryd06.rsw#葛肺农 乔扼固靛 瘤窍 2摸#
-moc_prydb1.rsw#档迪 辨靛#
-mjo_dun01.rsw#功福匆 企堡 1摸#
-mjo_dun02.rsw#功福匆 企堡 2摸#
-mjo_dun03.rsw#功福匆 企堡 3摸#
-orcsdun01.rsw#霸奇 坷农 瘤窍 悼奔 1摸#
-orcsdun02.rsw#霸奇 坷农 瘤窍 悼奔 2摸#
-pay_dun00.rsw#其捞挎 悼奔 1摸#
-pay_dun01.rsw#其捞挎 悼奔 2摸#
-pay_dun02.rsw#其捞挎 悼奔 3摸#
-pay_dun03.rsw#其捞挎 悼奔 4摸(企啊锰)#
-pay_dun04.rsw#其捞挎 悼奔 5摸(企啊锰)#
-prt_maze01.rsw#橇沸抛扼 固泵 剑 1摸#
-prt_maze02.rsw#橇沸抛扼 固泵 剑 2摸#
-prt_maze03.rsw#橇沸抛扼 固泵 剑 3摸#
-prt_sewb1.rsw#橇沸抛扼 瘤窍 荐肺 1摸#
-prt_sewb2.rsw#橇沸抛扼 瘤窍 荐肺 2摸#
-prt_sewb3.rsw#橇沸抛扼 瘤窍 荐肺 3摸#
-prt_sewb4.rsw#橇沸抛扼 瘤窍 荐肺 4摸#
-treasure01.rsw#舅海福鸥 魔隔急 1摸#
-treasure02.rsw#舅海福鸥 魔隔急 2摸#
-hunter_1-1.rsw#清磐 傈流家#
-hunter_2-1.rsw#清磐 傈流家#
-hunter_3-1.rsw#清磐 傈流家#
-in_hunter.rsw#清磐 傈流家#
-knight_1-1.rsw#唱捞飘 傈流家#
-knight_2-1.rsw#唱捞飘 傈流家#
-knight_3-1.rsw#唱捞飘 傈流家#
-priest_1-1.rsw#橇府胶飘 傈流家#
-priest_2-1.rsw#橇府胶飘 傈流家#
-priest_3-1.rsw#橇府胶飘 傈流家#
+in_sphinx1.rsw#史芬克斯密穴1F#
+in_sphinx2.rsw#史芬克斯密穴2F#
+in_sphinx3.rsw#史芬克斯密穴3F#
+in_sphinx4.rsw#史芬克斯密穴4F#
+in_sphinx5.rsw#史芬克斯密穴5F#
+moc_pryd01.rsw#金字塔迷宫1F#
+moc_pryd02.rsw#金字塔迷宫2F#
+moc_pryd03.rsw#金字塔迷宫3F#
+moc_pryd04.rsw#金字塔迷宫4F#
+moc_pryd05.rsw#金字塔迷宫地下2F#
+moc_pryd06.rsw#金字塔迷宫地下3F#
+moc_prydb1.rsw#金字塔迷宫地下1F(盗贼工会)#
+mjo_dun01.rsw#妙勒尼废弃矿场1F#
+mjo_dun02.rsw#妙勒尼废弃矿场2F#
+mjo_dun03.rsw#妙勒尼废弃矿场3F#
+orcsdun01.rsw#兽人地下洞窟1F#
+orcsdun02.rsw#兽人地下洞窟2F#
+pay_dun00.rsw#斐扬地下1F#
+pay_dun01.rsw#斐扬地下2F#
+pay_dun02.rsw#斐扬地下3F#
+pay_dun03.rsw#斐扬地下4F#
+pay_dun04.rsw#斐扬地下5F#
+prt_maze01.rsw#迷藏森林1F#
+prt_maze02.rsw#迷藏森林2F#
+prt_maze03.rsw#迷藏森林3F#
+prt_sewb1.rsw#普隆德拉地下水道1F#
+prt_sewb2.rsw#普隆德拉地下水道2F#
+prt_sewb3.rsw#普隆德拉地下水道3F#
+prt_sewb4.rsw#普隆德拉地下水道4F#
+treasure01.rsw#沉没之船1F#
+treasure02.rsw#沉没之船2F#
+hunter_1-1.rsw#猎人转职所第1阶段#
+hunter_2-1.rsw#猎人转职所第2阶段#
+hunter_3-1.rsw#猎人转职所第3阶段#
+in_hunter.rsw#猎人转职所#
+knight_1-1.rsw#骑士转职所第1阶段#
+knight_2-1.rsw#骑士转职所第2阶段#
+knight_3-1.rsw#骑士转职所第3阶段#
+priest_1-1.rsw#祭司转职所第1阶段#
+priest_2-1.rsw#祭司转职所第2阶段#
+priest_3-1.rsw#祭司转职所第3阶段#
 //sword_1-1.rsw#八荤 傈流家#
 //sword_2-1.rsw#八荤 傈流家#
-sword_3-1.rsw#八荤 傈流家#
-job_thief1.rsw#档迪 傈流家#
-wizard_1-1.rsw#困磊靛 傈流家#
-wizard_2-1.rsw#困磊靛 傈流家#
-wizard_3-1.rsw#困磊靛 傈流家#
-force_1-1.rsw#鸥烙绢琶葛靛#
-force_2-1.rsw#鸥烙绢琶葛靛#
-force_3-1.rsw#鸥烙绢琶葛靛#
-force_1-2.rsw#鸥烙绢琶葛靛#
-force_2-2.rsw#鸥烙绢琶葛靛#
-force_3-2.rsw#鸥烙绢琶葛靛#
-force_1-3.rsw#鸥烙绢琶葛靛#
-force_2-3.rsw#鸥烙绢琶葛靛#
-force_3-3.rsw#鸥烙绢琶葛靛#
-ordeal_1-1.rsw#硅撇坷掉葛靛#
-ordeal_2-1.rsw#硅撇坷掉葛靛#
-ordeal_3-1.rsw#硅撇坷掉葛靛#
-ordeal_1-2.rsw#硅撇坷掉葛靛#
-ordeal_2-2.rsw#硅撇坷掉葛靛#
-ordeal_3-2.rsw#硅撇坷掉葛靛#
-ordeal_1-3.rsw#硅撇坷掉葛靛#
-ordeal_2-3.rsw#硅撇坷掉葛靛#
-ordeal_3-3.rsw#硅撇坷掉葛靛#
-ordeal_1-4.rsw#硅撇坷掉葛靛#
-ordeal_2-4.rsw#硅撇坷掉葛靛#
-ordeal_3-4.rsw#硅撇坷掉葛靛#
-alb_ship.rsw#舅海福鸥 急冠 郴何#
-alberta.rsw#亲备档矫 舅海福鸥#
-alberta_in.rsw#舅海福鸥 郴何#
-alb2trea.rsw#魔隔急 何辟狼 级#
-aldebaran.rsw#惫版档矫 舅单官鄂#
-aldeba_in.rsw#舅单官鄂 郴何#
-gef_tower.rsw#霸奇 吝居啪#
-geffen.rsw#付过档矫 霸奇#
-geffen_in.rsw#霸奇 郴何#
+sword_3-1.rsw#剑士转职所第3阶段#
+job_thief1.rsw#盗贼转职所#
+wizard_1-1.rsw#巫师转职所第1阶段#
+wizard_2-1.rsw#巫师转职所第2阶段#
+wizard_3-1.rsw#巫师转职所第3阶段#
+force_1-1.rsw#限时激斗模式#
+force_2-1.rsw#限时激斗模式#
+force_3-1.rsw#限时激斗模式#
+force_1-2.rsw#限时激斗模式#
+force_2-2.rsw#限时激斗模式#
+force_3-2.rsw#限时激斗模式#
+force_1-3.rsw#限时激斗模式#
+force_2-3.rsw#限时激斗模式#
+force_3-3.rsw#限时激斗模式#
+ordeal_1-1.rsw#团体战斗模式#
+ordeal_2-1.rsw#团体战斗模式#
+ordeal_3-1.rsw#团体战斗模式#
+ordeal_1-2.rsw#团体战斗模式#
+ordeal_2-2.rsw#团体战斗模式#
+ordeal_3-2.rsw#团体战斗模式#
+ordeal_1-3.rsw#团体战斗模式#
+ordeal_2-3.rsw#团体战斗模式#
+ordeal_3-3.rsw#团体战斗模式#
+ordeal_1-4.rsw#团体战斗模式#
+ordeal_2-4.rsw#团体战斗模式#
+ordeal_3-4.rsw#团体战斗模式#
+alb_ship.rsw#艾尔贝塔船舶室内#
+alberta.rsw#港口之都 艾尔贝塔#
+alberta_in.rsw#艾尔贝塔室内#
+alb2trea.rsw#沉船附近的岛屿#
+aldebaran.rsw#运河之都 艾尔帕兰#
+aldeba_in.rsw#艾尔帕兰室内#
+gef_tower.rsw#吉芬中央塔#
+geffen.rsw#魔法之都 吉芬#
+geffen_in.rsw#吉芬室内#
 //moc_castle.rsw#葛肺农 己郴#	2008 葛肺农
-moc_ruins.rsw#荤阜档矫 葛肺农#
-morocc.rsw#荤阜档矫 葛肺农#
-morocc_in.rsw#葛肺农 郴何#
-pay_arche.rsw#其捞挎 泵荐付阑#
-payon.rsw#魂厩档矫 其捞挎#
-payon_in01.rsw#其捞挎 郴何#
-payon_in02.rsw#其捞挎 郴何#
-payon_in03.rsw#其捞挎 郴何#
-prontera.rsw#烽固靛啊明 空惫 荐档 橇沸抛扼#
-prt_in.rsw#橇沸抛扼 郴何#
-prt_castle.rsw#橇沸抛扼 己 郴何#
-prt_church.rsw#橇沸抛扼 己寸 郴何#
-izlude.rsw#困己档矫 捞令风靛#
-izlude_in.rsw#捞令风靛 郴何#
-izlu2dun.rsw#官捞酒鄂 级#
-monk_in.rsw#己 墨乔喷府唱 荐档盔 郴何#
-prt_are_in.rsw#酒饭唱 措扁角#
-arena_room.rsw#酒饭唱 措扁角#
-prt_arena01.rsw#酒饭唱#
-prt_are01.rsw#酒饭唱#
-glast_01.rsw#臂饭胶飘庆烙#
-alde_dun01.rsw#舅单官鄂 矫拌啪 瘤窍 1摸#
-alde_dun02.rsw#舅单官鄂 矫拌啪 瘤窍 2摸#
-alde_dun03.rsw#舅单官鄂 矫拌啪 瘤窍 3摸#
-alde_dun04.rsw#舅单官鄂 矫拌啪 瘤窍 4摸#
-c_tower1.rsw#舅单官鄂 矫拌啪 瘤惑 1摸#
-c_tower2.rsw#舅单官鄂 矫拌啪 瘤惑 2摸#
-c_tower3.rsw#舅单官鄂 矫拌啪 瘤惑 3摸#
-c_tower4.rsw#舅单官鄂 矫拌啪 瘤惑 4摸#
-gl_cas01.rsw#臂饭胶飘庆烙 己 1摸#
-gl_cas02.rsw#臂饭胶飘庆烙 己 2摸#
-gl_church.rsw#臂饭胶飘庆烙 荐档盔#
-gl_chyard.rsw#臂饭胶飘庆烙 瘤窍 功瘤#
-gl_dun01.rsw#臂饭胶飘庆烙 瘤窍 悼奔 1摸#
-gl_dun02.rsw#臂饭胶飘庆烙 瘤窍 悼奔 2摸#
-gl_in01.rsw#臂饭胶飘庆烙 角郴#
-gl_knt01.rsw#臂饭胶飘庆烙 扁荤窜 1摸#
-gl_knt02.rsw#臂饭胶飘庆烙 扁荤窜 2摸#
-gl_prison.rsw#臂饭胶飘庆烙 瘤窍 皑苛 1摸#
-gl_prison1.rsw#臂饭胶飘庆烙 瘤窍 皑苛 2摸#
-gl_sew01.rsw#臂饭胶飘庆烙 瘤窍 荐肺 1摸#
-gl_sew02.rsw#臂饭胶飘庆烙 瘤窍 荐肺 2摸#
-gl_sew03.rsw#臂饭胶飘庆烙 瘤窍 荐肺 3摸#
-gl_sew04.rsw#臂饭胶飘庆烙 瘤窍 荐肺 4摸#
-gl_step.rsw#臂饭胶飘庆烙 拌窜 带傈#
-pvp_y_room.rsw#PvP : 措扁角#
-pvp_n_room.rsw#PvP : 措扁角#
+moc_ruins.rsw#梦罗克金字塔迷宫外#
+morocc.rsw#沙漠之都 梦罗克#
+morocc_in.rsw#梦罗克室内#
+pay_arche.rsw#斐扬弓箭手村#
+payon.rsw#山岳之都 斐扬#
+payon_in01.rsw#斐扬室内#
+payon_in02.rsw#斐扬弓箭手村室内#
+payon_in03.rsw#斐扬中央宫内#
+prontera.rsw#卢恩米德加兹王国首都 普隆德拉#
+prt_in.rsw#普隆德拉室内#
+prt_castle.rsw#普隆德拉城内#
+prt_church.rsw#普隆德拉圣堂内#
+izlude.rsw#卫星都市 依斯鲁得岛#
+izlude_in.rsw#卫星都市 依斯鲁得岛室内#
+izlu2dun.rsw#柏伊亚岚岛#
+monk_in.rsw#圣卡毕利那修道院室内#
+prt_are_in.rsw#亚雷那等候室内#
+arena_room.rsw#亚雷那等候大厅#
+prt_arena01.rsw#亚雷那#
+prt_are01.rsw#亚雷那#
+glast_01.rsw#克雷斯特汉姆古城#
+alde_dun01.rsw#钟塔地下1F#
+alde_dun02.rsw#钟塔地下2F#
+alde_dun03.rsw#钟塔地下3F#
+alde_dun04.rsw#钟塔地下4F#
+c_tower1.rsw#钟塔地上1F#
+c_tower2.rsw#钟塔地上2F#
+c_tower3.rsw#钟塔地上3F#
+c_tower4.rsw#钟塔地上4F#
+gl_cas01.rsw#古城地上1F#
+gl_cas02.rsw#古城地上2F#
+gl_church.rsw#古城修道院#
+gl_chyard.rsw#古城地下公墓#
+gl_dun01.rsw#古城地下洞窟1F#
+gl_dun02.rsw#古城地下洞窟2F#
+gl_in01.rsw#古城图书馆#
+gl_knt01.rsw#古城骑士团1F#
+gl_knt02.rsw#古城骑士团2F#
+gl_prison.rsw#古城地下监狱1F#
+gl_prison1.rsw#古城地下监狱2F#
+gl_sew01.rsw#古城地下水道1F#
+gl_sew02.rsw#古城地下水道2F#
+gl_sew03.rsw#古城地下水道3F#
+gl_sew04.rsw#古城地下水道4F#
+gl_step.rsw#古城楼梯密穴#
+pvp_y_room.rsw#PvP等待室#
+pvp_n_room.rsw#PvP等待室#
 pvp_c_room.rsw#PvP : 措扁角#
-pvp_n_1-1.rsw#PvP : 击靛困摹 冯#
-pvp_n_2-1.rsw#PvP : 击靛困摹 冯#
-pvp_n_3-1.rsw#PvP : 击靛困摹 冯#
-pvp_n_4-1.rsw#PvP : 击靛困摹 冯#
-pvp_n_5-1.rsw#PvP : 击靛困摹 冯#
-pvp_n_6-1.rsw#PvP : 击靛困摹 冯#
-pvp_n_7-1.rsw#PvP : 击靛困摹 冯#
-pvp_n_8-1.rsw#PvP : 击靛困摹 冯#
-pvp_n_1-2.rsw#PvP : 遏 柯 冯#
-pvp_n_2-2.rsw#PvP : 遏 柯 冯#
-pvp_n_3-2.rsw#PvP : 遏 柯 冯#
-pvp_n_4-2.rsw#PvP : 遏 柯 冯#
-pvp_n_5-2.rsw#PvP : 遏 柯 冯#
-pvp_n_6-2.rsw#PvP : 遏 柯 冯#
-pvp_n_7-2.rsw#PvP : 遏 柯 冯#
-pvp_n_8-2.rsw#PvP : 遏 柯 冯#
-pvp_n_1-3.rsw#PvP : 器 冯#
-pvp_n_2-3.rsw#PvP : 器 冯#
-pvp_n_3-3.rsw#PvP : 器 冯#
-pvp_n_4-3.rsw#PvP : 器 冯#
-pvp_n_5-3.rsw#PvP : 器 冯#
-pvp_n_6-3.rsw#PvP : 器 冯#
-pvp_n_7-3.rsw#PvP : 器 冯#
-pvp_n_8-3.rsw#PvP : 器 冯#
-pvp_n_1-4.rsw#PvP : 攫歹 农肺胶 冯#
-pvp_n_2-4.rsw#PvP : 攫歹 农肺胶 冯#
-pvp_n_3-4.rsw#PvP : 攫歹 农肺胶 冯#
-pvp_n_4-4.rsw#PvP : 攫歹 农肺胶 冯#
-pvp_n_5-4.rsw#PvP : 攫歹 农肺胶 冯#
-pvp_n_6-4.rsw#PvP : 攫歹 农肺胶 冯#
-pvp_n_7-4.rsw#PvP : 攫歹 农肺胶 冯#
-pvp_n_8-4.rsw#PvP : 攫歹 农肺胶 冯#
-pvp_n_1-5.rsw#PvP : 霓颇胶 冯#
-pvp_n_2-5.rsw#PvP : 霓颇胶 冯#
-pvp_n_3-5.rsw#PvP : 霓颇胶 冯#
-pvp_n_4-5.rsw#PvP : 霓颇胶 冯#
-pvp_n_5-5.rsw#PvP : 霓颇胶 冯#
-pvp_n_6-5.rsw#PvP : 霓颇胶 冯#
-pvp_n_7-5.rsw#PvP : 霓颇胶 冯#
-pvp_n_8-5.rsw#PvP : 霓颇胶 冯#
-pvp_y_1-1.rsw#PvP : 橇沸抛扼#
-pvp_y_2-1.rsw#PvP : 橇沸抛扼#
-pvp_y_3-1.rsw#PvP : 橇沸抛扼#
-pvp_y_4-1.rsw#PvP : 橇沸抛扼#
-pvp_y_5-1.rsw#PvP : 橇沸抛扼#
-pvp_y_6-1.rsw#PvP : 橇沸抛扼#
-pvp_y_7-1.rsw#PvP : 橇沸抛扼#
-pvp_y_8-1.rsw#PvP : 橇沸抛扼#
-pvp_y_1-2.rsw#PvP : 捞令风靛#
-pvp_y_2-2.rsw#PvP : 捞令风靛#
-pvp_y_3-2.rsw#PvP : 捞令风靛#
-pvp_y_4-2.rsw#PvP : 捞令风靛#
-pvp_y_5-2.rsw#PvP : 捞令风靛#
-pvp_y_6-2.rsw#PvP : 捞令风靛#
-pvp_y_7-2.rsw#PvP : 捞令风靛#
-pvp_y_8-2.rsw#PvP : 捞令风靛#
-pvp_y_1-3.rsw#PvP : 其捞挎#
-pvp_y_2-3.rsw#PvP : 其捞挎#
-pvp_y_3-3.rsw#PvP : 其捞挎#
-pvp_y_4-3.rsw#PvP : 其捞挎#
-pvp_y_5-3.rsw#PvP : 其捞挎#
-pvp_y_6-3.rsw#PvP : 其捞挎#
-pvp_y_7-3.rsw#PvP : 其捞挎#
-pvp_y_8-3.rsw#PvP : 其捞挎#
-pvp_y_1-4.rsw#PvP : 舅海福鸥#
-pvp_y_2-4.rsw#PvP : 舅海福鸥#
-pvp_y_3-4.rsw#PvP : 舅海福鸥#
-pvp_y_4-4.rsw#PvP : 舅海福鸥#
-pvp_y_5-4.rsw#PvP : 舅海福鸥#
-pvp_y_6-4.rsw#PvP : 舅海福鸥#
-pvp_y_7-4.rsw#PvP : 舅海福鸥#
-pvp_y_8-4.rsw#PvP : 舅海福鸥#
-pvp_y_1-5.rsw#PvP : 葛肺农#
-pvp_y_2-5.rsw#PvP : 葛肺农#
-pvp_y_3-5.rsw#PvP : 葛肺农#
-pvp_y_4-5.rsw#PvP : 葛肺农#
-pvp_y_5-5.rsw#PvP : 葛肺农#
-pvp_y_6-5.rsw#PvP : 葛肺农#
-pvp_y_7-5.rsw#PvP : 葛肺农#
-pvp_y_8-5.rsw#PvP : 葛肺农#
-pvp_2vs2.rsw#PvP : 捞亥飘 版扁厘#
+pvp_n_1-1.rsw#PvP三明治房间01#
+pvp_n_2-1.rsw#PvP三明治房间02#
+pvp_n_3-1.rsw#PvP三明治房间03#
+pvp_n_4-1.rsw#PvP三明治房间04#
+pvp_n_5-1.rsw#PvP三明治房间05#
+pvp_n_6-1.rsw#PvP三明治房间06#
+pvp_n_7-1.rsw#PvP三明治房间07#
+pvp_n_8-1.rsw#PvP三明治房间08#
+pvp_n_1-2.rsw#PvP雷达锁定房间01#
+pvp_n_2-2.rsw#PvP雷达锁定房间02#
+pvp_n_3-2.rsw#PvP雷达锁定房间03#
+pvp_n_4-2.rsw#PvP雷达锁定房间04#
+pvp_n_5-2.rsw#PvP雷达锁定房间05#
+pvp_n_6-2.rsw#PvP雷达锁定房间06#
+pvp_n_7-2.rsw#PvP雷达锁定房间07#
+pvp_n_8-2.rsw#PvP雷达锁定房间08#
+pvp_n_1-3.rsw#PvP四通道房间01#
+pvp_n_2-3.rsw#PvP四通道房间02#
+pvp_n_3-3.rsw#PvP四通道房间03#
+pvp_n_4-3.rsw#PvP四通道房间04#
+pvp_n_5-3.rsw#PvP四通道房间05#
+pvp_n_6-3.rsw#PvP四通道房间06#
+pvp_n_7-3.rsw#PvP四通道房间07#
+pvp_n_8-3.rsw#PvP四通道房间08#
+pvp_n_1-4.rsw#PvP反十字房间01#
+pvp_n_2-4.rsw#PvP反十字房间02#
+pvp_n_3-4.rsw#PvP反十字房间03#
+pvp_n_4-4.rsw#PvP反十字房间04#
+pvp_n_5-4.rsw#PvP反十字房间05#
+pvp_n_6-4.rsw#PvP反十字房间06#
+pvp_n_7-4.rsw#PvP反十字房间07#
+pvp_n_8-4.rsw#PvP反十字房间08#
+pvp_n_1-5.rsw#PvP罗盘房间01#
+pvp_n_2-5.rsw#PvP罗盘房间02#
+pvp_n_3-5.rsw#PvP罗盘房间03#
+pvp_n_4-5.rsw#PvP罗盘房间04#
+pvp_n_5-5.rsw#PvP罗盘房间05#
+pvp_n_6-5.rsw#PvP罗盘房间06#
+pvp_n_7-5.rsw#PvP罗盘房间07#
+pvp_n_8-5.rsw#PvP罗盘房间08#
+pvp_y_1-1.rsw#普隆德拉PvP竞技场(01)#
+pvp_y_2-1.rsw#普隆德拉PvP竞技场(02)#
+pvp_y_3-1.rsw#普隆德拉PvP竞技场(03)#
+pvp_y_4-1.rsw#普隆德拉PvP竞技场(04)#
+pvp_y_5-1.rsw#普隆德拉PvP竞技场(05)#
+pvp_y_6-1.rsw#普隆德拉PvP竞技场(06)#
+pvp_y_7-1.rsw#普隆德拉PvP竞技场(07)#
+pvp_y_8-1.rsw#普隆德拉PvP竞技场(08)#
+pvp_y_1-2.rsw#依斯鲁得岛PvP竞技场(01)#
+pvp_y_2-2.rsw#依斯鲁得岛PvP竞技场(02)#
+pvp_y_3-2.rsw#依斯鲁得岛PvP竞技场(03)#
+pvp_y_4-2.rsw#依斯鲁得岛PvP竞技场(04)#
+pvp_y_5-2.rsw#依斯鲁得岛PvP竞技场(05)#
+pvp_y_6-2.rsw#依斯鲁得岛PvP竞技场(06)#
+pvp_y_7-2.rsw#依斯鲁得岛PvP竞技场(07)#
+pvp_y_8-2.rsw#依斯鲁得岛PvP竞技场(08)#
+pvp_y_1-3.rsw#斐扬PvP竞技场(01)#
+pvp_y_2-3.rsw#斐扬PvP竞技场(02)#
+pvp_y_3-3.rsw#斐扬PvP竞技场(03)#
+pvp_y_4-3.rsw#斐扬PvP竞技场(04)#
+pvp_y_5-3.rsw#斐扬PvP竞技场(05)#
+pvp_y_6-3.rsw#斐扬PvP竞技场(06)#
+pvp_y_7-3.rsw#斐扬PvP竞技场(07)#
+pvp_y_8-3.rsw#斐扬PvP竞技场(08)#
+pvp_y_1-4.rsw#艾尔贝塔PvP竞技场(01)#
+pvp_y_2-4.rsw#艾尔贝塔PvP竞技场(02)#
+pvp_y_3-4.rsw#艾尔贝塔PvP竞技场(03)#
+pvp_y_4-4.rsw#艾尔贝塔PvP竞技场(04)#
+pvp_y_5-4.rsw#艾尔贝塔PvP竞技场(05)#
+pvp_y_6-4.rsw#艾尔贝塔PvP竞技场(06)#
+pvp_y_7-4.rsw#艾尔贝塔PvP竞技场(07)#
+pvp_y_8-4.rsw#艾尔贝塔PvP竞技场(08)#
+pvp_y_1-5.rsw#梦罗克PvP竞技场(01)#
+pvp_y_2-5.rsw#梦罗克PvP竞技场(02)#
+pvp_y_3-5.rsw#梦罗克PvP竞技场(03)#
+pvp_y_4-5.rsw#梦罗克PvP竞技场(04)#
+pvp_y_5-5.rsw#梦罗克PvP竞技场(05)#
+pvp_y_6-5.rsw#梦罗克PvP竞技场(06)#
+pvp_y_7-5.rsw#梦罗克PvP竞技场(07)#
+pvp_y_8-5.rsw#梦罗克PvP竞技场(08)#
+pvp_2vs2.rsw#PvP活动竞技场#
